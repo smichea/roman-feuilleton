@@ -1,9 +1,11 @@
 # Le héros
 
+> Je suis né le 2 août 1951 à Nevers.
+
 ## Établi
 
-- Né en 1951 à Dijon.
-- Élève du lycée Carnot.
+- Né le 2 août 1951 à Nevers.
+- Devient ensuite élève du lycée Carnot à Dijon.
 - Commence des études qu'il interrompt après son mariage et la naissance d'un enfant.
 - Reprend un petit commerce grâce à une occasion.
 - Autodidacte.
@@ -12,7 +14,8 @@
 - Dispose d'un savoir encyclopédique.
 - Tourné vers le présent et le futur plutôt que vers le regret de la vie qu'il aurait pu mener.
 - Intellectuellement cultivé, mais moralement ordinaire au commencement.
-- Le personnage est fictif ; ses réactions sont écrites en se demandant ce que l'auteur ferait réellement dans la même situation.
+- Le personnage est fictif et composite : sa biographie mêle des éléments venus du père, de la mère et d'autres personnes, sans reproduire intégralement aucune vie réelle.
+- Ses réactions sont écrites en se demandant ce que l'auteur ferait réellement dans la même situation.
 - En 2026, à soixante-quinze ans et vers la fin de sa vie, il raconte son histoire à son fils fictif.
 
 ## Inspiration
@@ -26,6 +29,7 @@
 
 - Nom.
 - Nature du commerce.
+- Circonstances et date du passage de Nevers à Dijon.
 - Études commencées.
 - Milieu familial fictif.
 - Tempérament, qualités et défauts.
