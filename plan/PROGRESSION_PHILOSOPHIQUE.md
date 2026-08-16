@@ -2,6 +2,8 @@
 
 Le héros possède un savoir encyclopédique mais n'est pas sage dès le commencement. Chaque voyage doit rendre insuffisante une conviction antérieure.
 
+L'ordre des voyages est chronologique et philosophiquement nécessaire : une étape ne peut être déplacée librement, car elle repose sur les transformations produites par les précédentes.
+
 | Étape | Conviction initiale | Épreuve | Direction de l'apprentissage |
 |---|---|---|---|
 | Savoir | Connaître davantage permet d'avoir raison et de maîtriser la situation | Il connaît les principes mais ne sait pas toujours calculer, démontrer, fabriquer ou convaincre | Humilité intellectuelle |
