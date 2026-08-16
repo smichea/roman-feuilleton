@@ -16,7 +16,7 @@
 - Intellectuellement cultivé, mais moralement ordinaire au commencement.
 - Le personnage est fictif et composite : sa biographie mêle des éléments venus du père, de la mère et d'autres personnes, sans reproduire intégralement aucune vie réelle.
 - Ses réactions sont écrites en se demandant ce que l'auteur ferait réellement dans la même situation.
-- En 2026, à soixante-quinze ans et vers la fin de sa vie, il raconte son histoire à son fils fictif.
+- En 2026, à soixante-quinze ans et vers la fin de sa vie, il raconte son histoire à un compagnon de voyage fictif.
 
 ## Inspiration
 
@@ -36,5 +36,6 @@
 - Âge du premier appel manqué, du premier refus et du premier voyage.
 - Fréquence des voyages.
 - Manière dont les voyages transforment son commerce et ses relations.
-- Personnalité, âge et relation exacte du fils fictif.
+- Personnalité, âge et relation exacte du compagnon fictif.
 - Raison pour laquelle il choisit précisément ce moment pour tout raconter.
+- Raison pour laquelle il fait confiance à ce compagnon plutôt qu'à un proche.
