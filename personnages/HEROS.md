@@ -1,13 +1,16 @@
 # Le héros
 
-> Je suis né le 2 août 1970 à Nevers, dans le quartier du Banlay. Mon père était ouvrier et ma mère repasseuse. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
+> Je suis né le 2 août 1970 à Nevers, dans le quartier du Banlay. Mes parents étaient étudiants. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
 
 ## Établi
 
 - Né le 2 août 1970 à Nevers, dans le quartier du Banlay.
-- Son père est ouvrier et sa mère repasseuse.
+- Ses parents sont étudiants à sa naissance.
+- Son père devient ensuite fonctionnaire, dans un domaine autre que les transports.
+- Sa mère devient institutrice.
 - Ses parents s'installent à Dijon en 1974, lorsqu'il a quatre ans.
 - Il conserve très peu de souvenirs de ses premières années à Nevers.
+- Il reçoit son premier appel à dix ans, pendant des vacances chez ses grands-parents à Varennes-Vauzelles, alors qu'il lit Buffon.
 - Devient ensuite élève du lycée Carnot à Dijon.
 - Commence des études qu'il interrompt après son mariage et la naissance d'un enfant.
 - Reprend un petit commerce grâce à une occasion.
@@ -36,7 +39,7 @@
 - Études commencées.
 - Milieu familial fictif.
 - Tempérament, qualités et défauts.
-- Âge du premier appel manqué, du premier refus et du premier voyage.
+- Âge du premier refus conforme aux règles et du premier voyage ; le premier appel absolu est désormais fixé à dix ans.
 - Fréquence des voyages.
 - Manière dont les voyages transforment son commerce et ses relations.
 - Personnalité, âge et relation exacte du compagnon fictif.
