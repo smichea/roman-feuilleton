@@ -62,4 +62,4 @@ Option à fort effet de révélation, mais risquée : elle peut rendre artificie
 - Peut-elle mentir ?
 - Est-elle soumise à des règles qu'elle n'a pas créées ?
 - Pourquoi appelle-t-elle le héros ?
-- Pourquoi le compagnon se trouve-t-il avec lui en 2026 ?
+- Pourquoi le compagnon se trouve-t-il avec lui en 2056 ?
