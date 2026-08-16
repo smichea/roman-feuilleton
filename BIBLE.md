@@ -53,7 +53,9 @@ Le héros reste à nommer. Il est entièrement fictif, mais sa biographie repren
 
 - naissance le **2 août 1970 à Nevers** ;
 - naissance dans le **quartier du Banlay** ;
-- père ouvrier et mère repasseuse ;
+- parents étudiants à sa naissance ;
+- père devenu ensuite fonctionnaire, dans un domaine autre que les transports ;
+- mère devenue institutrice ;
 - installation de la famille à Dijon lorsqu'il a quatre ans ;
 - études au **lycée Carnot** ;
 - mariage relativement jeune ;
@@ -67,7 +69,7 @@ Les autres personnes de sa vie seront fictives. Le roman ne doit pas transformer
 
 Premier paragraphe actuellement retenu :
 
-> Je suis né le 2 août 1970 à Nevers, dans le quartier du Banlay. Mon père était ouvrier et ma mère repasseuse. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
+> Je suis né le 2 août 1970 à Nevers, dans le quartier du Banlay. Mes parents étaient étudiants. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
 
 Cette ouverture factuelle fait croire à des mémoires écrites. Cette lecture doit pouvoir se maintenir pendant tout le premier livre, puisque le compagnon n'y est jamais entendu.
 
@@ -129,6 +131,8 @@ Il ne choisit pas le corps dans lequel il voyagera.
 Il ne peut pas provoquer un appel ni rappeler la voix. Après son retour, il ne peut repartir que s'il reçoit un nouvel appel. Il ignore toujours si celui-ci surviendra demain, des années plus tard ou jamais.
 
 Il essaiera, de voyage en voyage, d'en apprendre davantage sur la voix : questions directes, enregistrements, tentatives de rappel, réponses inhabituelles et tests de ses limites. L'identité de la voix ne sera toutefois pas nécessairement révélée.
+
+La voix elle-même **évolue au cours du temps**. Sa manière de comprendre, de répondre et d'interagir avec le héros n'est pas immuable. Cette évolution est réelle, même si le héros ignore longtemps si elle apprend à son contact, si le dispositif se perfectionne, si plusieurs interlocuteurs se succèdent ou si une autre cause est à l'œuvre. Les premiers appels peuvent donc être plus laconiques et rigides que les suivants.
 
 ### 4.2. La limite des deux cents ans
 
@@ -258,7 +262,9 @@ Le mécanisme exact du retour et le devenir du corps occupé restent également 
 
 ### 8.1. Enfance et jeunesse
 
-Le héros naît le 2 août 1970 dans le quartier du Banlay, à Nevers. Son père est ouvrier et sa mère repasseuse. Ses parents s'installent à Dijon en 1974, lorsqu'il a quatre ans ; il conserve très peu de souvenirs de ses premières années nivernaises. Il étudie plus tard au lycée Carnot. Il grandit au contact des livres et développe progressivement un savoir encyclopédique.
+Le héros naît le 2 août 1970 dans le quartier du Banlay, à Nevers. Ses parents sont alors étudiants. Son père devient ensuite fonctionnaire, dans un domaine autre que les transports, et sa mère institutrice. Ses parents s'installent à Dijon en 1974, lorsqu'il a quatre ans ; il conserve très peu de souvenirs de ses premières années nivernaises. Il étudie plus tard au lycée Carnot. Il grandit au contact des livres et développe progressivement un savoir encyclopédique.
+
+À dix ans, pendant des vacances chez ses grands-parents à Varennes-Vauzelles, il reçoit son premier appel. Il est en train de lire Buffon sur la table de la salle à manger lorsqu'il décroche le téléphone à cadran. Prenant les questions de la voix pour celles d'un correspondant ordinaire qui cherche ses grands-parents, il donne « Bonjour » comme lieu, « dans un quart d'heure » comme date et dix ans comme âge. La voix rejette finalement sa demande parce que « Bonjour » n'est pas un lieu identifiable.
 
 La chronologie exacte des premiers appels reste à harmoniser. Deux éléments ont été envisagés :
 
