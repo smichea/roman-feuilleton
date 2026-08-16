@@ -60,3 +60,12 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - Première possibilité : environ une semaine dans le Transsibérien.
 - Seconde possibilité : une croisière sur un bateau à voile, les lieux successifs réveillant les souvenirs des différents voyages.
 - Le cadre exact n'est pas encore décidé et devra être documenté.
+
+
+## 2026-08-16 — Ordre du récit
+
+### Décidé
+
+- Le récit des voyages est chronologique.
+- Cette chronologie porte la progression philosophique du *Bildungsroman* : chaque apprentissage rend possible le suivant.
+- Le récit-cadre, les paysages et les questions du fils peuvent rythmer le récit mais ne doivent pas réordonner les voyages.
