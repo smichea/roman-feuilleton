@@ -101,3 +101,19 @@ L'année 2026 et le cadre du voyage peuvent être révélés dans la même scèn
 - Les interventions du compagnon deviennent visibles.
 - Le récit des voyages demeure chronologique.
 - Le cadre contemporain peut revenir entre les grandes étapes sans concurrencer leur progression philosophique.
+
+
+## Le compagnon et la voix
+
+Le compagnon ne devrait probablement pas être un auditeur rencontré par pur hasard. Son intérêt pour le récit peut cacher un rapport antérieur avec les appels.
+
+Indices possibles, à introduire progressivement :
+
+- il est moins surpris par le phénomène que par certains détails ;
+- il demande les mots exacts employés par la voix ;
+- il reconnaît une formule administrative ;
+- il anticipe une règle que le héros n'a pas encore racontée ;
+- il possède ou surveille lui aussi un téléphone inhabituel ;
+- une incohérence apparente dans ses questions révèle qu'il en sait davantage.
+
+La révélation de sa présence et celle de son lien avec la voix doivent être deux étapes distinctes. Le lecteur peut d'abord découvrir qu'il existe un auditeur, puis comprendre beaucoup plus tard que cet auditeur n'est pas neutre.
