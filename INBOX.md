@@ -17,11 +17,11 @@ Une entrée peut avoir l'un des statuts suivants :
 
 Idée brute :
 
-> En 2026, à la fin de sa vie, le héros raconte son histoire à un compagnon de voyage pendant un voyage dans le Transsibérien. Le trajet dure environ une semaine : il faut bien une semaine pour tout raconter.
+> En 2056, à la fin de sa vie, le héros raconte son histoire à un compagnon de voyage pendant un voyage dans le Transsibérien. Le trajet dure environ une semaine : il faut bien une semaine pour tout raconter.
 
 À examiner :
 
-- plausibilité et détails du trajet en 2026 ;
+- plausibilité et détails du trajet en 2056 ;
 - direction et gares ;
 - découpage éventuel en sept journées ;
 - rôle dramatique du compagnon ;
