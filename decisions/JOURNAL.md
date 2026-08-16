@@ -14,7 +14,7 @@
 
 - Personnage entièrement fictif : ni Sébastien Michea ni Jacky Michea.
 - Ses réactions pourront être imaginées depuis la subjectivité de l'auteur : « À sa place, que ferais-je ? »
-- Biographie librement inspirée de Jacky Michea : naissance en 1951 à Dijon, lycée Carnot, mariage, enfant, interruption des études, reprise opportuniste d'un petit commerce.
+- Biographie composite mêlant librement des éléments venus du père, de la mère et d'autres personnes : naissance le 2 août 1951 à Nevers, lycée Carnot à Dijon, mariage, enfant, interruption des études, reprise opportuniste d'un petit commerce.
 - Petit commerçant autodidacte, amoureux des livres, possédant une bibliothèque omniprésente et un savoir encyclopédique.
 - L'environnement humain du héros sera fictif.
 
@@ -85,3 +85,18 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - Moment exact de la révélation.
 - Première phrase prononcée par le fils.
 - Révélation simultanée ou échelonnée du fils, de l'année 2026 et du moyen de transport.
+
+
+## 2026-08-16 — Biographie composite et ouverture
+
+### Décidé
+
+- La vie du héros mêle des éléments historiques venus du père, de la mère et d'autres personnes, sans reproduire la biographie complète d'aucune personne réelle.
+- Le héros naît le 2 août 1951 à Nevers.
+- Il étudie ultérieurement au lycée Carnot à Dijon.
+- Le roman s'ouvre actuellement sur : « Je suis né le 2 août 1951 à Nevers. »
+- Cette ouverture doit d'abord être comprise comme le début de mémoires ; le lecteur découvrira plus tard qu'elle est prononcée au fils.
+
+### À construire
+
+- Date et raison du passage de Nevers à Dijon.
