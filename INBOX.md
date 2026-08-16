@@ -62,3 +62,21 @@ Idée brute :
 - personnage ;
 - voyage ;
 - question philosophique.
+
+
+### 2026-08-16 — Le compagnon et la voix
+
+**Statut :** Hypothèse structurante
+
+Idée brute :
+
+> On devrait en découvrir davantage sur la voix au cours du temps, et le compagnon n'y est pas étranger.
+
+Possibilités non décidées :
+
+- le compagnon a lui-même reçu des appels ;
+- il reconnaît une formulation exacte de la voix ;
+- il connaît une règle qui ne lui a pas encore été racontée ;
+- il recherche le phénomène depuis longtemps ;
+- il travaille pour la voix ou lui est lié ;
+- il est la voix, hypothèse plus spectaculaire mais susceptible de réduire excessivement le mystère.
