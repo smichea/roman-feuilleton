@@ -7,8 +7,8 @@ Le terme « compagnon » désigne provisoirement la personne qui partage le traj
 - L'histoire est racontée en 2026.
 - Le héros, né le 2 août 1951 à Nevers, a soixante-quinze ans et arrive vers la fin de sa vie.
 - Il raconte ses appels et ses voyages à un compagnon de voyage fictif.
-- Le dialogue avec le compagnon permet les objections, les demandes de précision et la mise à l'épreuve de la mémoire du héros.
-- Le lecteur ignore d'abord que le récit est adressé au compagnon ; la situation d'énonciation n'est révélée qu'après une partie substantielle du livre.
+- Après la révélation de son existence dans un volume ultérieur, le dialogue avec le compagnon permettra les objections, les demandes de précision et la mise à l'épreuve de la mémoire du héros.
+- Pendant tout le livre I, le lecteur n'entend que le récit du héros : le compagnon n'est ni audible ni identifiable. La situation d'énonciation sera révélée dans un livre ultérieur.
 - La confession se déroule probablement pendant un voyage partagé assez long pour donner le temps de tout raconter.
 - Le héros raconte ses voyages dans l'ordre chronologique où il les a vécus. Cet ordre est nécessaire à sa progression philosophique.
 
@@ -87,18 +87,19 @@ Le récit peut s'ouvrir par :
 
 - Le texte ressemble à des mémoires racontées à la première personne.
 - Le héros suit l'ordre chronologique.
-- Les éventuelles adresses en « tu » doivent pouvoir être prises pour une adresse générale au lecteur.
-- Quelques interruptions ou ellipses peuvent sembler stylistiques sans dévoiler encore un auditeur présent.
+- Aucune parole du compagnon n'est rapportée.
+- Aucun échange, aucune adresse et aucun détail ne doit obliger le lecteur à supposer un auditeur présent.
+- Le livre I doit pouvoir être lu jusqu'au bout comme un récit autobiographique direct.
 
 ### Scène de révélation
 
-Une première intervention incontestable du compagnon interrompt le récit. Elle doit obliger le lecteur à reconfigurer ce qu'il vient de lire : le narrateur ne rédigeait pas seul ses mémoires, il parlait à son fils dans un lieu et un temps présents.
+Dans un livre ultérieur, une première intervention incontestable du compagnon oblige le lecteur à reconfigurer tout ce qu'il a lu : le narrateur ne rédigeait pas seul ses mémoires, il parlait à un compagnon dans un lieu et un temps présents.
 
-L'année 2026 et le cadre du voyage peuvent être révélés dans la même scène ou plus progressivement.
+Cette scène ne peut pas survenir dans le livre I. L'année 2026 et le cadre du voyage peuvent être révélés dans la même scène ou plus progressivement.
 
 ### Après la révélation
 
-- Les interventions du compagnon deviennent visibles.
+- Les interventions du compagnon deviennent visibles seulement à partir du livre où son existence est révélée.
 - Le récit des voyages demeure chronologique.
 - Le cadre contemporain peut revenir entre les grandes étapes sans concurrencer leur progression philosophique.
 
@@ -107,7 +108,7 @@ L'année 2026 et le cadre du voyage peuvent être révélés dans la même scèn
 
 Le compagnon ne devrait probablement pas être un auditeur rencontré par pur hasard. Son intérêt pour le récit peut cacher un rapport antérieur avec les appels.
 
-Indices possibles, à introduire progressivement :
+Indices possibles, à introduire progressivement **après que l'existence du compagnon est devenue perceptible** :
 
 - il est moins surpris par le phénomène que par certains détails ;
 - il demande les mots exacts employés par la voix ;
@@ -117,3 +118,12 @@ Indices possibles, à introduire progressivement :
 - une incohérence apparente dans ses questions révèle qu'il en sait davantage.
 
 La révélation de sa présence et celle de son lien avec la voix doivent être deux étapes distinctes. Le lecteur peut d'abord découvrir qu'il existe un auditeur, puis comprendre beaucoup plus tard que cet auditeur n'est pas neutre.
+
+
+## Enchaînement des livres
+
+- Chaque livre suit la chronologie de la vie et de la formation du héros.
+- Il s'achève sur une découverte, une révélation ou une compréhension décisive.
+- Cette conclusion ne clôt pas une aventure autonome : elle fait naître le problème qui porte le livre suivant.
+- Le mystère du compagnon et celui de la voix suivent eux aussi cette progression par seuils.
+- Le livre I est soumis à une contrainte absolue : seul le récit du héros est entendu.
