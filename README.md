@@ -13,6 +13,7 @@ Dépôt de travail du roman-feuilleton fantastique, philosophique, éducatif et 
 - [plan/VOIX.md](plan/VOIX.md) — enquête progressive sur la voix et son lien possible avec le compagnon.
 - [plan/PROGRESSION_PHILOSOPHIQUE.md](plan/PROGRESSION_PHILOSOPHIQUE.md) — chemin du *Bildungsroman*.
 - [plan/VOYAGES.md](plan/VOYAGES.md) — matrice des voyages, encore à construire.
+- [manuscrit/LIVRE_I.md](manuscrit/LIVRE_I.md) — brouillon chronologique du premier livre.
 
 ## Méthode de travail
 
