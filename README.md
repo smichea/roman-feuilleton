@@ -9,6 +9,7 @@ Dépôt de travail du roman-feuilleton fantastique, philosophique, éducatif et 
 - [decisions/JOURNAL.md](decisions/JOURNAL.md) — décisions datées et changements de canon.
 - [personnages/HEROS.md](personnages/HEROS.md) — fiche de travail du héros.
 - [plan/CHRONOLOGIE_PRESENT.md](plan/CHRONOLOGIE_PRESENT.md) — histoire du héros dans son monde originel.
+- [plan/RECIT_CADRE.md](plan/RECIT_CADRE.md) — confession au fils en 2026 et hypothèse du Transsibérien.
 - [plan/PROGRESSION_PHILOSOPHIQUE.md](plan/PROGRESSION_PHILOSOPHIQUE.md) — chemin du *Bildungsroman*.
 - [plan/VOYAGES.md](plan/VOYAGES.md) — matrice des voyages, encore à construire.
 
