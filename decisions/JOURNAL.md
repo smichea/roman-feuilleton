@@ -145,3 +145,14 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - Chaque livre s'achève sur une découverte, une révélation ou une compréhension décisive.
 - La fin d'un livre ouvre le problème intellectuel, moral ou métaphysique qui porte le suivant.
 - La progression entre les volumes demeure strictement chronologique et accompagne la formation philosophique du héros.
+
+
+## 2026-08-16 — Origines du héros et ouverture développée
+
+### Décidé
+
+- Le héros naît le 2 août 1951 à Nevers, dans le quartier du Banlay.
+- Son père est ouvrier et sa mère repasseuse.
+- La famille s'installe à Dijon lorsqu'il a quatre ans.
+- Il conserve très peu de souvenirs de ses premières années à Nevers.
+- Le premier paragraphe de travail reprend ces éléments dans une forme autobiographique sobre.
