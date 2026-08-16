@@ -16,7 +16,7 @@ Le livre doit permettre à son auteur d'en apprendre beaucoup sur lui-même et s
 
 Sa biographie est **composite** : elle mêle librement des éléments venus de l'histoire du père, de la mère et d'autres personnes réelles, sans reproduire intégralement la vie d'aucune d'elles ni permettre d'identifier les personnages secondaires.
 
-L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à un compagnon de voyage fictif avec lequel il va partager un assez long moment. Le récit principal prend donc la forme d'une longue confidence orale rétrospective. La confession pourrait se dérouler pendant un voyage partagé assez long pour tout raconter. Deux cadres sont actuellement envisagés : environ une semaine dans le Transsibérien, ou une croisière sur un bateau à voile dont les lieux successifs rappelleraient au héros ses différents voyages. Le cadre reste à choisir et à documenter.
+L'histoire est racontée en **2056** par le héros, âgé de quatre-vingt-six ans et arrivé vers la fin de sa vie, à un compagnon de voyage fictif avec lequel il va partager un assez long moment. Le récit principal prend donc la forme d'une longue confidence orale rétrospective. La confession pourrait se dérouler pendant un voyage partagé assez long pour tout raconter. Deux cadres sont actuellement envisagés : environ une semaine dans le Transsibérien, ou une croisière sur un bateau à voile dont les lieux successifs rappelleraient au héros ses différents voyages. Le cadre reste à choisir et à documenter.
 
 Le lecteur ne doit pas comprendre immédiatement que cette parole est adressée à un compagnon. Le roman commence comme un récit autobiographique direct. **Pendant tout le premier livre, on n'entend que le récit du héros : jamais la voix du compagnon.** Rien ne doit obliger le lecteur à identifier un dialogue ou un auditeur présent. La révélation du compagnon appartient à un livre ultérieur ; son moment exact reste à déterminer.
 
@@ -51,7 +51,7 @@ Formule possible :
 
 Le héros reste à nommer. Il est entièrement fictif, mais sa biographie reprend librement certains éléments de celle de Jacky Michea :
 
-- naissance le **2 août 1951 à Nevers** ;
+- naissance le **2 août 1970 à Nevers** ;
 - naissance dans le **quartier du Banlay** ;
 - père ouvrier et mère repasseuse ;
 - installation de la famille à Dijon lorsqu'il a quatre ans ;
@@ -67,11 +67,11 @@ Les autres personnes de sa vie seront fictives. Le roman ne doit pas transformer
 
 Premier paragraphe actuellement retenu :
 
-> Je suis né le 2 août 1951 à Nevers, dans le quartier du Banlay. Mon père était ouvrier et ma mère repasseuse. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
+> Je suis né le 2 août 1970 à Nevers, dans le quartier du Banlay. Mon père était ouvrier et ma mère repasseuse. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
 
 Cette ouverture factuelle fait croire à des mémoires écrites. Cette lecture doit pouvoir se maintenir pendant tout le premier livre, puisque le compagnon n'y est jamais entendu.
 
-En 2026, à soixante-quinze ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à un compagnon fictif avec lequel il partage un long trajet. Dans le premier livre, ce compagnon demeure entièrement silencieux pour le lecteur. Après sa révélation dans un volume ultérieur, ses questions, objections et incrédulités pourront représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris. La nature exacte de leur relation, leur degré de familiarité initial et la raison de cette confiance restent à construire.
+En 2056, à quatre-vingt-six ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à un compagnon fictif avec lequel il partage un long trajet. Dans le premier livre, ce compagnon demeure entièrement silencieux pour le lecteur. Après sa révélation dans un volume ultérieur, ses questions, objections et incrédulités pourront représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris. La nature exacte de leur relation, leur degré de familiarité initial et la raison de cette confiance restent à construire.
 
 Une hypothèse structurante est que ce compagnon ne soit pas étranger à la voix. Il pourrait avoir reçu des appels, reconnaître certaines formulations, connaître une règle que le héros ne lui a pas encore dite, rechercher lui-même l'origine du phénomène ou entretenir un lien plus direct avec lui. Cette connexion doit permettre de révéler progressivement des propriétés de la voix sans nécessairement expliquer son origine ultime.
 
@@ -258,7 +258,7 @@ Le mécanisme exact du retour et le devenir du corps occupé restent également 
 
 ### 8.1. Enfance et jeunesse
 
-Le héros naît le 2 août 1951 dans le quartier du Banlay, à Nevers. Son père est ouvrier et sa mère repasseuse. Ses parents s'installent à Dijon lorsqu'il a quatre ans ; il conserve très peu de souvenirs de ses premières années nivernaises. Il étudie plus tard au lycée Carnot. Il grandit au contact des livres et développe progressivement un savoir encyclopédique.
+Le héros naît le 2 août 1970 dans le quartier du Banlay, à Nevers. Son père est ouvrier et sa mère repasseuse. Ses parents s'installent à Dijon en 1974, lorsqu'il a quatre ans ; il conserve très peu de souvenirs de ses premières années nivernaises. Il étudie plus tard au lycée Carnot. Il grandit au contact des livres et développe progressivement un savoir encyclopédique.
 
 La chronologie exacte des premiers appels reste à harmoniser. Deux éléments ont été envisagés :
 
@@ -304,9 +304,9 @@ Les voyages doivent progressivement modifier sa manière de vivre dans son monde
 
 Les enseignements doivent être éprouvés dans la vie ordinaire. Il serait trop facile d'être sage seulement dans des mondes que l'on peut quitter.
 
-### 8.5. Le récit-cadre en 2026
+### 8.5. Le récit-cadre en 2056
 
-À soixante-quinze ans, vers la fin de sa vie, le héros entreprend de raconter ses appels et ses voyages à un compagnon fictif avec lequel il va partager un assez long moment. L'histoire entière est donc filtrée par sa mémoire, ses interprétations tardives et le dialogue avec ce compagnon.
+À quatre-vingt-six ans, vers la fin de sa vie, le héros entreprend de raconter ses appels et ses voyages à un compagnon fictif avec lequel il va partager un assez long moment. L'histoire entière est donc filtrée par sa mémoire, ses interprétations tardives et le dialogue avec ce compagnon.
 
 Cette situation n'est pas exposée au début. Pendant tout le premier livre, le lecteur n'entend que le héros et peut croire qu'il lit simplement ses mémoires. Le compagnon n'intervient pas de façon audible et aucun détail ne doit imposer l'existence d'un auditeur. Sa première manifestation explicite aura lieu dans un livre ultérieur et révélera rétroactivement la nature orale et située du récit.
 
@@ -486,7 +486,7 @@ Le sens d'une action ne dépend pas de la possibilité d'en rapporter le résult
 
 À la fin de la série, le héros est très vieux — biologiquement, subjectivement, ou les deux selon les règles temporelles qui seront fixées. Il ignore toujours qui est la voix et ne sait pas si cet appel sera le dernier.
 
-Le récit-cadre se déroule en 2026, alors qu'il a soixante-quinze ans et arrive vers la fin de sa vie. Le dernier appel peut survenir pendant ou à l'issue du voyage raconté à son compagnon.
+Le récit-cadre se déroule en 2056, alors qu'il a quatre-vingt-six ans et arrive vers la fin de sa vie. Le dernier appel peut survenir pendant ou à l'issue du voyage raconté à son compagnon.
 
 La voix demande :
 
@@ -525,7 +525,7 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - âge exact de chaque appel et voyage ;
 - fréquence des appels au cours de sa vie ;
 - place de la boutique dans son évolution morale.
-- personnalité, âge et rôle exacts du compagnon fictif qui reçoit le récit en 2026 ;
+- personnalité, âge et rôle exacts du compagnon fictif qui reçoit le récit en 2056 ;
 - relation initiale entre le héros et ce compagnon, et raison pour laquelle il lui accorde sa confiance ;
 - nature du lien entre le compagnon et la voix ;
 - indices progressifs montrant que son intérêt pour le récit n'est pas fortuit ;
@@ -537,7 +537,7 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - articulation exacte des révélations finales qui enchaînent chaque livre au suivant ;
 - livre dans lequel le compagnon devient explicitement perceptible ;
 - moment et formulation exacte de sa première intervention, nécessairement postérieure au livre I ;
-- révélation simultanée ou successive du compagnon, de l'année 2026 et du moyen de transport.
+- révélation simultanée ou successive du compagnon, de l'année 2056 et du moyen de transport.
 
 ### Voyages
 
