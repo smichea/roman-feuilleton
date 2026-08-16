@@ -6,6 +6,7 @@
 - Le héros, né en 1951, a soixante-quinze ans et arrive vers la fin de sa vie.
 - Il raconte ses appels et ses voyages à son fils fictif.
 - Le dialogue avec le fils permet les objections, les demandes de précision et la mise à l'épreuve de la mémoire du héros.
+- Le lecteur ignore d'abord que le récit est adressé au fils ; la situation d'énonciation n'est révélée qu'après une partie substantielle du livre.
 - La confession se déroule probablement pendant un voyage partagé assez long pour donner le temps de tout raconter.
 - Le héros raconte ses voyages dans l'ordre chronologique où il les a vécus. Cet ordre est nécessaire à sa progression philosophique.
 
@@ -71,3 +72,25 @@ Les questions de lever du soleil ne doivent pas fixer indirectement les règles 
 - Le fils interrompt-il, vérifie-t-il ou accuse-t-il ?
 - Comment les associations provoquées par le trajet renforcent-elles l'ordre chronologique sans le rompre ?
 - Le dernier appel survient-il en chemin, lors d'une étape ou après l'arrivée ?
+
+
+## Révélation différée
+
+### Avant la révélation
+
+- Le texte ressemble à des mémoires racontées à la première personne.
+- Le héros suit l'ordre chronologique.
+- Les éventuelles adresses en « tu » doivent pouvoir être prises pour une adresse générale au lecteur.
+- Quelques interruptions ou ellipses peuvent sembler stylistiques sans dévoiler encore un auditeur présent.
+
+### Scène de révélation
+
+Une première intervention incontestable du fils interrompt le récit. Elle doit obliger le lecteur à reconfigurer ce qu'il vient de lire : le narrateur ne rédigeait pas seul ses mémoires, il parlait à son fils dans un lieu et un temps présents.
+
+L'année 2026 et le cadre du voyage peuvent être révélés dans la même scène ou plus progressivement.
+
+### Après la révélation
+
+- Les interventions du fils deviennent visibles.
+- Le récit des voyages demeure chronologique.
+- Le cadre contemporain peut revenir entre les grandes étapes sans concurrencer leur progression philosophique.
