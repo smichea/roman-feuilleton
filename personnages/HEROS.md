@@ -13,6 +13,7 @@
 - Tourné vers le présent et le futur plutôt que vers le regret de la vie qu'il aurait pu mener.
 - Intellectuellement cultivé, mais moralement ordinaire au commencement.
 - Le personnage est fictif ; ses réactions sont écrites en se demandant ce que l'auteur ferait réellement dans la même situation.
+- En 2026, à soixante-quinze ans et vers la fin de sa vie, il raconte son histoire à son fils fictif.
 
 ## Inspiration
 
@@ -31,3 +32,5 @@
 - Âge du premier appel manqué, du premier refus et du premier voyage.
 - Fréquence des voyages.
 - Manière dont les voyages transforment son commerce et ses relations.
+- Personnalité, âge et relation exacte du fils fictif.
+- Raison pour laquelle il choisit précisément ce moment pour tout raconter.
