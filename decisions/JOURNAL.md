@@ -169,3 +169,17 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - Afin que le héros raconte toujours son histoire vers la fin de sa vie, le récit-cadre est déplacé de 2026 à **2056**.
 - Le héros a alors **quatre-vingt-six ans**.
 - La période postérieure à 2026 constitue désormais un futur proche à construire avec sobriété.
+
+
+## 2026-08-16 — Parents du héros, premier appel et évolution de la voix
+
+### Décidé
+
+- Les parents du héros sont étudiants à sa naissance.
+- Son père devient ensuite fonctionnaire, dans un domaine autre que les transports.
+- Sa mère devient institutrice.
+- Le héros reçoit son premier appel à dix ans, pendant des vacances chez ses grands-parents à Varennes-Vauzelles.
+- Il est alors en train de lire un ouvrage d'histoire naturelle de Buffon.
+- La voix évolue réellement au fil des années : son langage, sa compréhension ou sa manière d'interagir se transforment.
+- La cause de cette évolution reste ouverte.
+- Le chapitre 1 est corrigé typographiquement sans modifier le ressort comique de la demande invalide.
