@@ -4,8 +4,8 @@
 
 Le terme « compagnon » désigne provisoirement la personne qui partage le trajet et reçoit la confidence ; la nature exacte de leur relation reste ouverte.
 
-- L'histoire est racontée en 2026.
-- Le héros, né le 2 août 1951 à Nevers, a soixante-quinze ans et arrive vers la fin de sa vie.
+- L'histoire est racontée en 2056.
+- Le héros, né le 2 août 1970 à Nevers, a quatre-vingt-six ans et arrive vers la fin de sa vie.
 - Il raconte ses appels et ses voyages à un compagnon de voyage fictif.
 - Après la révélation de son existence dans un volume ultérieur, le dialogue avec le compagnon permettra les objections, les demandes de précision et la mise à l'épreuve de la mémoire du héros.
 - Pendant tout le livre I, le lecteur n'entend que le récit du héros : le compagnon n'est ni audible ni identifiable. La situation d'énonciation sera révélée dans un livre ultérieur.
@@ -40,7 +40,7 @@ Le héros et son compagnon naviguent ensemble. Les lieux traversés rappellent a
 |---|---|---|
 | Structure | Linéaire, étapes successives | Chronologique également ; les lieux accompagnent les étapes de la formation |
 | Rythme | Horaires, gares, compartiments | Quarts, vents, escales, météo |
-| Relation père-fils | Proximité imposée par le compartiment | Entraide concrète et vulnérabilité partagée |
+| Relation avec le compagnon | Proximité imposée par le compartiment | Entraide concrète et vulnérabilité partagée |
 | Paysage | Continent qui défile | Mer, côtes et ports historiquement stratifiés |
 | Thèmes naturels | Temps, distance, civilisation | Vivant, éléments, fragilité, écosystèmes |
 | Dernière réponse « ici » | Train en mouvement | Bateau et coordonnées mouvantes |
@@ -49,7 +49,7 @@ Le héros et son compagnon naviguent ensemble. Les lieux traversés rappellent a
 
 ### Pour le Transsibérien
 
-- itinéraires plausibles en 2026 ;
+- itinéraires plausibles en 2056 ;
 - durée réelle ;
 - sens du voyage, gares et fuseaux horaires ;
 - conditions matérielles à bord ;
@@ -59,7 +59,7 @@ Le héros et son compagnon naviguent ensemble. Les lieux traversés rappellent a
 
 - itinéraire et durée ;
 - type et taille du bateau ;
-- rôle du fils et compétences de navigation ;
+- rôle du compagnon et compétences de navigation ;
 - escales capables d'évoquer plusieurs voyages historiques ;
 - conditions de mer et rythme réaliste d'une traversée.
 
@@ -68,9 +68,9 @@ Les questions de lever du soleil ne doivent pas fixer indirectement les règles 
 ## Questions narratives communes
 
 - Pourquoi le compagnon partage-t-il ce voyage avec le héros ??
-- Que sait-il déjà de son père ?
+- Que sait-il déjà du héros ?
 - Le croit-il au commencement ?
-- Pourquoi le héros choisit-il 2026 pour parler ?
+- Pourquoi le héros choisit-il 2056 pour parler ?
 - Le compagnon interrompt-il, vérifie-t-il ou accuse-t-il ?
 - Comment les associations provoquées par le trajet renforcent-elles l'ordre chronologique sans le rompre ?
 - Le dernier appel survient-il en chemin, lors d'une étape ou après l'arrivée ?
@@ -82,7 +82,7 @@ Les questions de lever du soleil ne doivent pas fixer indirectement les règles 
 
 Le récit peut s'ouvrir par :
 
-> Je suis né le 2 août 1951 à Nevers.
+> Je suis né le 2 août 1970 à Nevers.
 
 
 - Le texte ressemble à des mémoires racontées à la première personne.
@@ -95,7 +95,7 @@ Le récit peut s'ouvrir par :
 
 Dans un livre ultérieur, une première intervention incontestable du compagnon oblige le lecteur à reconfigurer tout ce qu'il a lu : le narrateur ne rédigeait pas seul ses mémoires, il parlait à un compagnon dans un lieu et un temps présents.
 
-Cette scène ne peut pas survenir dans le livre I. L'année 2026 et le cadre du voyage peuvent être révélés dans la même scène ou plus progressivement.
+Cette scène ne peut pas survenir dans le livre I. L'année 2056 et le cadre du voyage peuvent être révélés dans la même scène ou plus progressivement.
 
 ### Après la révélation
 
