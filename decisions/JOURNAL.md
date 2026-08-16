@@ -69,3 +69,19 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - Le récit des voyages est chronologique.
 - Cette chronologie porte la progression philosophique du *Bildungsroman* : chaque apprentissage rend possible le suivant.
 - Le récit-cadre, les paysages et les questions du fils peuvent rythmer le récit mais ne doivent pas réordonner les voyages.
+
+
+## 2026-08-16 — Révélation différée du destinataire
+
+### Décidé
+
+- Le lecteur ne sait pas au commencement que le héros raconte son histoire à son fils.
+- Le début se présente comme un récit autobiographique direct.
+- Après une partie substantielle du livre, une interruption ou un détail révèle que le récit est oral, adressé au fils et raconté depuis 2026.
+- Des indices loyaux mais non évidents doivent permettre une relecture rétrospective.
+
+### À construire
+
+- Moment exact de la révélation.
+- Première phrase prononcée par le fils.
+- Révélation simultanée ou échelonnée du fils, de l'année 2026 et du moyen de transport.
