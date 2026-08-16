@@ -183,3 +183,17 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - La voix évolue réellement au fil des années : son langage, sa compréhension ou sa manière d'interagir se transforment.
 - La cause de cette évolution reste ouverte.
 - Le chapitre 1 est corrigé typographiquement sans modifier le ressort comique de la demande invalide.
+
+
+## 2026-08-17 — Deuxième et troisième appels intégrés au livre I
+
+### Décidé
+
+- Le deuxième appel survient lorsque le héros a douze ans.
+- Il a pris la mauvaise ligne d'autobus en rentrant de l'école et téléphone à sa mère depuis un téléphone public après avoir uriné dans son pantalon.
+- Quelques secondes après leur conversation, le téléphone public sonne et la voix appelle.
+- Le héros reconnaît la voix mais répond encore involontairement aux trois questions.
+- Le troisième appel survient à quinze ans, alors qu'il joue sur son Amstrad et que ses parents travaillent.
+- Il répond volontairement : Dijon, 2 août 1970, quinze ans.
+- La voix refuse la demande parce que la date n'est pas suffisamment éloignée dans le passé.
+- Le héros décide alors de préparer le prochain appel.
