@@ -52,6 +52,9 @@ Formule possible :
 Le héros reste à nommer. Il est entièrement fictif, mais sa biographie reprend librement certains éléments de celle de Jacky Michea :
 
 - naissance le **2 août 1951 à Nevers** ;
+- naissance dans le **quartier du Banlay** ;
+- père ouvrier et mère repasseuse ;
+- installation de la famille à Dijon lorsqu'il a quatre ans ;
 - études au **lycée Carnot** ;
 - mariage relativement jeune ;
 - naissance d'un enfant ;
@@ -62,9 +65,9 @@ L'arrêt des études ne constitue pas nécessairement chez lui un traumatisme ou
 
 Les autres personnes de sa vie seront fictives. Le roman ne doit pas transformer les véritables proches de Jack ou de Sébastien en personnages reconnaissables.
 
-Première phrase actuellement retenue :
+Premier paragraphe actuellement retenu :
 
-> Je suis né le 2 août 1951 à Nevers.
+> Je suis né le 2 août 1951 à Nevers, dans le quartier du Banlay. Mon père était ouvrier et ma mère repasseuse. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
 
 Cette ouverture factuelle fait croire à des mémoires écrites. Cette lecture doit pouvoir se maintenir pendant tout le premier livre, puisque le compagnon n'y est jamais entendu.
 
@@ -255,7 +258,7 @@ Le mécanisme exact du retour et le devenir du corps occupé restent également 
 
 ### 8.1. Enfance et jeunesse
 
-Le héros naît le 2 août 1951 à Nevers, puis étudie au lycée Carnot à Dijon. Les circonstances et la date de son arrivée à Dijon restent à construire. Il grandit au contact des livres et développe progressivement un savoir encyclopédique.
+Le héros naît le 2 août 1951 dans le quartier du Banlay, à Nevers. Son père est ouvrier et sa mère repasseuse. Ses parents s'installent à Dijon lorsqu'il a quatre ans ; il conserve très peu de souvenirs de ses premières années nivernaises. Il étudie plus tard au lycée Carnot. Il grandit au contact des livres et développe progressivement un savoir encyclopédique.
 
 La chronologie exacte des premiers appels reste à harmoniser. Deux éléments ont été envisagés :
 
@@ -327,110 +330,157 @@ Cette hypothèse soulève des possibilités à examiner :
 - ambiguïté du mot « ici » prononcé depuis un train en mouvement ;
 - effets des fuseaux horaires et des levers de soleil, à ne traiter qu'après fixation des règles des appels matinaux.
 
-## 9. La première phase morale : exploiter le passé
+## 9. Progression philosophique
 
-Au début, le héros cherche à utiliser les voyages pour améliorer son présent originel.
+Le héros est érudit, mais il n'est pas sage dès le début. Son point de départ reste moralement ordinaire :
 
-Il peut tenter de :
+- il admet certaines violences comme nécessaires ;
+- il considère la démocratie représentative comme la forme normale de la démocratie ;
+- il pense qu'une technologie efficace constitue généralement un progrès ;
+- il cherche d'abord à profiter personnellement de ses voyages ;
+- il croit volontiers que davantage de connaissances lui donnera raison ;
+- sa bienveillance concerne principalement son entourage immédiat.
 
-- découvrir un trésor ou un objet enfoui ;
-- obtenir des informations financières ;
-- apprendre un secret ;
-- vérifier une énigme historique ;
-- influencer une invention ;
-- empêcher une catastrophe ;
-- conseiller un puissant ;
-- vivre dans le luxe en convainquant un souverain qu'il vient du futur.
+Chaque voyage doit mettre en crise l'une de ses convictions.
 
-Ces tentatives ne sont pas nécessairement ignobles. Il peut vouloir aider sa famille ou prévenir des souffrances. Mais il traite encore le passé comme une ressource au service de son présent.
+### 9.1. Humilité intellectuelle
 
-## 10. Découverte de la futilité causale
+Le savoir moderne ne rend pas omniscient. Les anciens ne sont pas stupides. Connaître un résultat n'est pas savoir le reconstruire ni le rendre opératoire.
 
-Progressivement, il comprend :
+### 9.2. Luxe et travail invisible
 
-1. qu'il ne visite pas son propre passé ;
-2. que ses actions créent une divergence réelle ;
-3. qu'un nouveau voyage ne le ramène jamais dans un monde déjà modifié ;
-4. que rien ne remonte vers son présent originel ;
-5. que les habitants du monde parallèle ne sont pourtant pas irréels.
+Le confort et les privilèges reposent sur le travail, les ressources et parfois la souffrance d'autres personnes. Un avantage doit être examiné depuis la position de ceux qui le rendent possible.
 
-Il ne peut donc ni sauver son présent ni accumuler facilement richesses et pouvoirs dans celui-ci.
+### 9.3. Non-violence
 
-La formule « comme des rêves » décrit l'absence d'effet sur son présent, non l'irréalité morale des personnes rencontrées.
+Le héros pense d'abord qu'une violence limitée ou préventive peut empêcher une violence plus grande. Il découvre les mécanismes d'escalade, de vengeance, de peur et de militarisation.
 
-La découverte centrale est double :
+L'enseignement ne doit pas être facile : le roman doit confronter la non-violence aux cas les plus difficiles, pas seulement à des brutalités caricaturales.
 
-- son action est futile pour son intérêt personnel dans le monde originel ;
-- elle demeure moralement réelle pour ceux qui subissent ou reçoivent ses conséquences dans le monde visité.
+### 9.4. Critique de l'homme providentiel
 
-## 11. Transformation philosophique
+Une société juste ne peut dépendre durablement de la sagesse exceptionnelle d'un bon roi, d'un bon chef ou d'un héros venu du futur.
 
-Chaque grand voyage doit constituer une expérience qui déplace une conviction du héros.
+### 9.5. Démocratie liquide
 
-Progression générale envisagée :
+La démocratie ne se réduit pas au choix périodique de représentants. Le héros découvre progressivement :
 
-1. **Curiosité naïve** — il veut voir.
-2. **Exploitation** — il veut tirer profit du passé.
-3. **Intervention bienveillante** — il veut corriger l'histoire.
-4. **Échec du contrôle** — ses corrections produisent des effets inattendus.
-5. **Respect de l'autonomie** — aider ne signifie pas gouverner.
-6. **Non-violence** — refuser de produire volontairement la souffrance et chercher la désescalade.
-7. **Démocratie liquide** — distribuer et rendre révocable le pouvoir plutôt que l'accaparer.
-8. **Eternal kindness** — cultiver une bienveillance durable, y compris envers ceux qu'il ne connaîtra jamais.
-9. **Élargissement moral au vivant** — respecter les autres êtres vivants et préserver les écosystèmes.
-10. **Transmission sans possession** — préparer un futur qu'il ne contrôlera pas.
+- le vote direct ;
+- la délégation par domaine ;
+- la délégation révocable ;
+- la transparence ;
+- la possibilité de reprendre son vote ;
+- la conservation permanente de la souveraineté par chacun.
 
-Ces convictions ne sont pas données dès le commencement. Elles naissent d'erreurs, de contradictions, de rencontres et de conséquences imprévues.
+La démocratie liquide doit naître de plusieurs expériences et échecs, non apparaître immédiatement comme une solution parfaite.
 
-Le héros doit parfois mal comprendre la leçon d'un voyage. Il peut appliquer une vérité partielle de manière excessive lors du suivant, puis être corrigé par l'expérience.
+### 9.6. Progrès et écologie
 
-## 12. Fonction éducative et comique
+Une innovation efficace peut provoquer exploitation, concentration du pouvoir, pollution, destruction de savoirs ou épuisement des ressources. La possibilité technique ne constitue pas une justification morale.
 
-### 12.1. L'appel de soixante secondes
+Le héros apprend à penser les conséquences sur plusieurs générations et à préserver les conditions de vie futures.
 
-Exemple central :
+### 9.7. Élargissement de la considération morale
 
-Le héros veut vivre dans le luxe. Il affirme à un monarque qu'il vient du futur et peut le prouver. Le roi convoque ses savants.
+Son attention s'élargit progressivement :
 
-Ceux-ci lui posent notamment une question sur √2.
+1. lui-même ;
+2. sa famille et ses proches ;
+3. ses semblables ;
+4. les étrangers et les adversaires ;
+5. les générations futures ;
+6. les animaux ;
+7. les communautés vivantes et les écosystèmes.
 
-Le héros sait que :
+Il ne s'agit pas d'une règle simpliste interdisant toute atteinte au vivant, mais d'une orientation constante visant à reconnaître et réduire la violence.
 
-[
-sqrt{2} approx 1{,}41421356
-]
+### 9.8. « Eternal kindness »
 
-mais ne peut pas nécessairement produire sur-le-champ cinq décimales fiables ni une méthode immédiatement convaincante pour les savants de l'époque.
+La kindness n'est pas seulement une émotion occasionnelle. Elle devient une orientation permanente envers les autres êtres : attention, douceur, respect, soin et refus de traiter une vie comme moralement négligeable.
 
-Il doit survivre et conserver leur intérêt jusqu'au lever du soleil. Pendant la minute de communication avec son présent, il doit :
+La formulation et la portée exactes de cette idée restent à approfondir.
 
-- obtenir une méthode ;
-- la comprendre ;
-- retenir les étapes ;
-- anticiper les questions suivantes ;
-- la traduire dans les concepts et instruments disponibles à l'époque.
+### 9.9. Aider sans gouverner
 
-L'auteur lui-même, pourtant titulaire d'une thèse en mathématiques, a remarqué qu'il commencerait peut-être par chercher un développement limité de ((1-x)^n), ce qui serait intellectuellement pertinent mais peu utile sous pression devant une cour ancienne.
+Même ses principes les plus justes deviendraient oppressifs s'il les imposait. Le héros apprend à donner aux habitants :
 
-La scène enseigne donc simultanément :
+- accès aux connaissances ;
+- moyens de délibérer ;
+- capacité de vérifier les faits ;
+- possibilité de révoquer les pouvoirs ;
+- outils de résolution non violente des conflits ;
+- moyens de préserver leur autonomie et leur milieu.
 
-- une méthode mathématique réelle ;
-- l'écart entre savoir et savoir restituer ;
-- les conditions matérielles de la connaissance ;
-- le danger de se présenter comme omniscient ;
-- l'art de gagner du temps.
+Il ne décide pas à leur place de ce qu'est une bonne vie.
 
-### 12.2. Autres sources de comique
+## 10. Le mécanisme éducatif
 
-- La voix répond comme une administration.
-- Le corps reçu contredit le projet du héros.
-- Son savoir moderne est inutilisable sans instruments.
-- Une innovation simple exige une chaîne industrielle inexistante.
-- Une prédiction correcte devient fausse parce qu'elle a été annoncée.
-- Il ignore les conventions sociales du corps qu'il occupe.
-- Il doit cacher une ignorance que son entourage prend pour une maladie, une possession ou une trahison.
-- Il découvre que les grands personnages historiques sont occupés par des problèmes triviaux.
-- Il tente d'expliquer un concept moderne avec un vocabulaire qui n'existe pas encore.
+Le roman doit réellement apprendre des choses au lecteur. La science, l'histoire et la philosophie doivent être nécessaires à l'action.
+
+Exemple envisagé : le héros souhaite vivre luxueusement auprès d'un monarque. Il prétend venir du futur et affirme pouvoir le prouver. Le roi convoque ses savants, qui l'interrogent.
+
+Ils peuvent lui demander :
+
+- la valeur de \(\sqrt2\) à plusieurs décimales ;
+- une méthode permettant de l'obtenir ;
+- une démonstration de son irrationalité ;
+- des connaissances astronomiques ;
+- une prédiction vérifiable.
+
+Le héros sait que \(\sqrt2\approx1{,}41\), connaît peut-être son histoire et certaines propriétés, mais ne sait pas nécessairement produire cinq décimales sur-le-champ.
+
+Une méthode efficace serait l'itération babylonienne ou méthode de Héron :
+
+\[
+x_{n+1}=\frac12\left(x_n+\frac{2}{x_n}\right).
+\]
+
+En partant de \(x_0=1{,}4\), quelques itérations donnent rapidement \(1{,}41421356\ldots\). Mais encore faut-il retrouver la méthode, effectuer les divisions avec les outils disponibles et éviter le ridicule si les savants la connaissent déjà.
+
+Le comique vient du contraste entre son assurance encyclopédique et la précision opérationnelle demandée.
+
+## 11. Divergence et connaissance de l'avenir
+
+Au début d'un voyage, les archives du présent décrivent encore le monde visité. Mais les comportements humains deviennent rapidement imprévisibles parce que la présence mentale du héros modifie les décisions.
+
+Il faut distinguer :
+
+### Phénomènes relativement robustes
+
+- mathématiques ;
+- mouvements astronomiques ;
+- propriétés physiques ;
+- phénomènes naturels peu sensibles à ses actions.
+
+### Phénomènes rapidement divergents
+
+- rencontres ;
+- décisions politiques ;
+- batailles ;
+- mariages ;
+- prix ;
+- rumeurs ;
+- déplacements ;
+- propagation sociale d'une information ;
+- réactions à ses propres prédictions.
+
+Plus il cherche à démontrer qu'il connaît l'avenir humain, plus il contribue à rendre cet avenir faux.
+
+## 12. Sens général de l'œuvre
+
+Le héros tente d'abord d'utiliser ses passages dans le passé pour améliorer son présent originel : richesse, prestige, connaissance, influence ou avantage matériel.
+
+Lorsqu'il comprend que chaque voyage se déroule dans une copie parallèle, il croit un temps que ses actions sont futiles. Il découvre ensuite son erreur : les habitants du monde visité sont réels et les conséquences de ses actes le sont également, même si elles ne profitent jamais à son monde d'origine.
+
+Sa question évolue :
+
+> Comment utiliser le passé pour améliorer mon présent ?
+
+devient :
+
+> Comment aider les habitants de ce monde et les générations futures à vivre sainement de corps et d'esprit, en paix, dans le respect des autres êtres vivants et en préservant leur écosystème ?
+
+Le sens d'une action ne dépend pas de la possibilité d'en rapporter le résultat, d'en recevoir le mérite ou même d'en observer l'aboutissement.
 
 ## 13. La fin
 
@@ -467,7 +517,7 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 
 - nom du héros ;
 - composition précise de sa biographie fictive à partir de plusieurs histoires réelles ;
-- circonstances de son passage de Nevers à Dijon ;
+- circonstances précises de l'installation familiale à Dijon, au-delà de l'âge déjà fixé à quatre ans ;
 - nature exacte du petit commerce ;
 - détails de son enfance et de sa bibliothèque ;
 - études commencées puis interrompues ;
