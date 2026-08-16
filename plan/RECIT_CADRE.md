@@ -3,7 +3,7 @@
 ## Canon
 
 - L'histoire est racontée en 2026.
-- Le héros, né en 1951, a soixante-quinze ans et arrive vers la fin de sa vie.
+- Le héros, né le 2 août 1951 à Nevers, a soixante-quinze ans et arrive vers la fin de sa vie.
 - Il raconte ses appels et ses voyages à son fils fictif.
 - Le dialogue avec le fils permet les objections, les demandes de précision et la mise à l'épreuve de la mémoire du héros.
 - Le lecteur ignore d'abord que le récit est adressé au fils ; la situation d'énonciation n'est révélée qu'après une partie substantielle du livre.
@@ -77,6 +77,11 @@ Les questions de lever du soleil ne doivent pas fixer indirectement les règles 
 ## Révélation différée
 
 ### Avant la révélation
+
+Le récit peut s'ouvrir par :
+
+> Je suis né le 2 août 1951 à Nevers.
+
 
 - Le texte ressemble à des mémoires racontées à la première personne.
 - Le héros suit l'ordre chronologique.
