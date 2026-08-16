@@ -132,3 +132,16 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 
 - Le compagnon de voyage n'est pas étranger à la voix.
 - La nature exacte de ce lien reste ouverte.
+
+
+## 2026-08-16 — Architecture des livres et silence du compagnon
+
+### Décidé
+
+- La décision antérieure d'une révélation du destinataire « après une partie substantielle du livre » est corrigée.
+- Pendant tout le livre I, on n'entend que le récit du héros.
+- Le compagnon n'y parle pas de façon audible et rien ne doit obliger le lecteur à identifier sa présence.
+- La révélation explicite du compagnon aura lieu dans un livre ultérieur.
+- Chaque livre s'achève sur une découverte, une révélation ou une compréhension décisive.
+- La fin d'un livre ouvre le problème intellectuel, moral ou métaphysique qui porte le suivant.
+- La progression entre les volumes demeure strictement chronologique et accompagne la formation philosophique du héros.
