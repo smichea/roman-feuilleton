@@ -296,9 +296,11 @@ Le père et le fils pourraient effectuer ensemble un voyage assez long pour rend
 Deux hypothèses concurrentes sont envisagées :
 
 - **Le Transsibérien** : le mouvement continu du train, les étapes, les nuits et les changements de fuseau horaire rythment les grandes parties du récit.
-- **Une croisière sur un bateau à voile** : les côtes, les ports, les vents, les paysages et les événements de la navigation rappellent au héros ses différents voyages et peuvent produire une narration plus associative que chronologique.
+- **Une croisière sur un bateau à voile** : les côtes, les ports, les vents, les paysages et les événements de la navigation font écho aux différents voyages, mais le héros les raconte strictement dans l'ordre où il les a vécus.
 
 Le voilier offre en outre une présence constante du vivant, des éléments, de l'entraide nécessaire à bord et des levers de soleil. Ces possibilités ne doivent cependant pas fixer indirectement les règles des appels matinaux.
+
+Le récit doit rester **chronologique**. Cet ordre est indispensable au *Bildungsroman* : chaque expérience transforme le héros et rend possible l'étape philosophique suivante. Les souvenirs, paysages et interventions du fils peuvent rythmer ou éclairer le récit, mais jamais rompre la chaîne causale de sa formation.
 
 Cette hypothèse soulève des possibilités à examiner :
 
@@ -506,6 +508,7 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - choix entre le Transsibérien, une croisière à la voile ou un autre voyage partagé ;
 - direction du trajet, étapes, durée et circonstances pratiques du cadre retenu ;
 - architecture du récit-cadre : sept jours, étapes ferroviaires ou autre découpage.
+- correspondance entre l'ordre chronologique des voyages et les étapes du trajet-cadre.
 
 ### Voyages
 
