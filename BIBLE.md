@@ -14,7 +14,7 @@ Le héros voyage dans des copies parallèles du passé. Chaque voyage constitue 
 
 Le livre doit permettre à son auteur d'en apprendre beaucoup sur lui-même et sur le monde. Le héros n'est toutefois ni Sébastien Michea ni Jacky Michea. C'est un personnage entièrement fictif. Pour imaginer ses réactions, l'auteur pourra se demander : **« À sa place, que ferais-je réellement ? »**, sans lui donner pour autant sa propre identité, son métier ou sa formation.
 
-L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à son fils fictif. Le récit principal prend donc la forme d'une longue transmission orale rétrospective. L'hypothèse privilégiée est que cette confession se déroule au cours d'un voyage d'environ une semaine dans le Transsibérien : la durée du trajet donne matériellement le temps nécessaire pour tout raconter. Ce lieu précis reste à confirmer et à documenter.
+L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à son fils fictif. Le récit principal prend donc la forme d'une longue transmission orale rétrospective. La confession pourrait se dérouler pendant un voyage partagé assez long pour tout raconter. Deux cadres sont actuellement envisagés : environ une semaine dans le Transsibérien, ou une croisière sur un bateau à voile dont les lieux successifs rappelleraient au héros ses différents voyages. Le cadre reste à choisir et à documenter.
 
 ## 2. Ambition stylistique
 
@@ -291,7 +291,14 @@ Les enseignements doivent être éprouvés dans la vie ordinaire. Il serait trop
 
 À soixante-quinze ans, vers la fin de sa vie, le héros entreprend de raconter ses appels et ses voyages à son fils fictif. L'histoire entière est donc filtrée par sa mémoire, ses interprétations tardives et le dialogue avec ce fils.
 
-Hypothèse forte : ils effectuent ensemble un voyage d'environ une semaine dans le Transsibérien. Le mouvement continu du train, les étapes, les nuits et les changements de fuseau horaire peuvent rythmer les grandes parties du récit. Le trajet donne aussi une raison matérielle à leur disponibilité mutuelle : il faut bien une semaine pour tout raconter.
+Le père et le fils pourraient effectuer ensemble un voyage assez long pour rendre possible cette confession : il faut bien une semaine, ou davantage, pour tout raconter.
+
+Deux hypothèses concurrentes sont envisagées :
+
+- **Le Transsibérien** : le mouvement continu du train, les étapes, les nuits et les changements de fuseau horaire rythment les grandes parties du récit.
+- **Une croisière sur un bateau à voile** : les côtes, les ports, les vents, les paysages et les événements de la navigation rappellent au héros ses différents voyages et peuvent produire une narration plus associative que chronologique.
+
+Le voilier offre en outre une présence constante du vivant, des éléments, de l'entraide nécessaire à bord et des levers de soleil. Ces possibilités ne doivent cependant pas fixer indirectement les règles des appels matinaux.
 
 Cette hypothèse soulève des possibilités à examiner :
 
@@ -496,8 +503,8 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - fréquence des appels au cours de sa vie ;
 - place de la boutique dans son évolution morale.
 - personnalité, âge et rôle exacts du fils fictif qui reçoit le récit en 2026 ;
-- confirmation ou abandon du Transsibérien comme cadre de la confession ;
-- direction du trajet, étapes, durée et circonstances pratiques si ce cadre est retenu ;
+- choix entre le Transsibérien, une croisière à la voile ou un autre voyage partagé ;
+- direction du trajet, étapes, durée et circonstances pratiques du cadre retenu ;
 - architecture du récit-cadre : sept jours, étapes ferroviaires ou autre découpage.
 
 ### Voyages
