@@ -14,6 +14,8 @@ Le héros voyage dans des copies parallèles du passé. Chaque voyage constitue 
 
 Le livre doit permettre à son auteur d'en apprendre beaucoup sur lui-même et sur le monde. Le héros n'est toutefois ni Sébastien Michea ni Jacky Michea. C'est un personnage entièrement fictif. Pour imaginer ses réactions, l'auteur pourra se demander : **« À sa place, que ferais-je réellement ? »**, sans lui donner pour autant sa propre identité, son métier ou sa formation.
 
+Sa biographie est **composite** : elle mêle librement des éléments venus de l'histoire du père, de la mère et d'autres personnes réelles, sans reproduire intégralement la vie d'aucune d'elles ni permettre d'identifier les personnages secondaires.
+
 L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à son fils fictif. Le récit principal prend donc la forme d'une longue transmission orale rétrospective. La confession pourrait se dérouler pendant un voyage partagé assez long pour tout raconter. Deux cadres sont actuellement envisagés : environ une semaine dans le Transsibérien, ou une croisière sur un bateau à voile dont les lieux successifs rappelleraient au héros ses différents voyages. Le cadre reste à choisir et à documenter.
 
 Le lecteur ne doit pas comprendre immédiatement que cette parole est adressée au fils. Le roman commence comme un récit autobiographique direct. Ce n'est qu'après une partie substantielle du livre qu'une interruption, une réponse ou un détail du présent révèle progressivement l'existence du fils et la situation d'énonciation en 2026. Les indices antérieurs doivent rester compatibles avec cette révélation sans la rendre évidente.
@@ -47,7 +49,7 @@ Formule possible :
 
 Le héros reste à nommer. Il est entièrement fictif, mais sa biographie reprend librement certains éléments de celle de Jacky Michea :
 
-- naissance en **1951 à Dijon** ;
+- naissance le **2 août 1951 à Nevers** ;
 - études au **lycée Carnot** ;
 - mariage relativement jeune ;
 - naissance d'un enfant ;
@@ -57,6 +59,12 @@ Le héros reste à nommer. Il est entièrement fictif, mais sa biographie repren
 L'arrêt des études ne constitue pas nécessairement chez lui un traumatisme ou le regret d'une vie universitaire manquée. Il est orienté vers le présent et l'avenir : ce qui l'intéresse est ce qu'il peut faire maintenant et ce que ses actes rendront possible demain.
 
 Les autres personnes de sa vie seront fictives. Le roman ne doit pas transformer les véritables proches de Jack ou de Sébastien en personnages reconnaissables.
+
+Première phrase actuellement retenue :
+
+> Je suis né le 2 août 1951 à Nevers.
+
+Cette ouverture factuelle fait croire à des mémoires écrites et prépare ainsi la révélation différée du fils qui écoute réellement le récit.
 
 En 2026, à soixante-quinze ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à son fils fictif. Le fils n'est pas un simple auditeur : ses questions, objections et incrédulités peuvent représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris.
 
@@ -243,7 +251,7 @@ Le mécanisme exact du retour et le devenir du corps occupé restent également 
 
 ### 8.1. Enfance et jeunesse
 
-Le héros naît en 1951 à Dijon et étudie au lycée Carnot. Il grandit au contact des livres et développe progressivement un savoir encyclopédique.
+Le héros naît le 2 août 1951 à Nevers, puis étudie au lycée Carnot à Dijon. Les circonstances et la date de son arrivée à Dijon restent à construire. Il grandit au contact des livres et développe progressivement un savoir encyclopédique.
 
 La chronologie exacte des premiers appels reste à harmoniser. Deux éléments ont été envisagés :
 
@@ -501,6 +509,8 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 ### Héros et présent
 
 - nom du héros ;
+- composition précise de sa biographie fictive à partir de plusieurs histoires réelles ;
+- circonstances de son passage de Nevers à Dijon ;
 - nature exacte du petit commerce ;
 - détails de son enfance et de sa bibliothèque ;
 - études commencées puis interrompues ;
