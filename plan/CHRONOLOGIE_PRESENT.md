@@ -4,7 +4,7 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 
 | Phase | Vie présente | Rapport aux appels et aux voyages | Transformation |
 |---|---|---|---|
-| Enfance | Naissance le 2 août 1970 à Nevers ; installation à Dijon en 1974 ; livres et formation de la curiosité | Appels éventuellement manqués ou interrompus ; séquence exacte à fixer | Le monde paraît connaissable par les livres |
+| Enfance | Naissance le 2 août 1970 à Nevers de parents étudiants ; installation à Dijon en 1974 ; le père devient fonctionnaire et la mère institutrice ; livres et formation de la curiosité | Premier appel à dix ans chez les grands-parents à Varennes-Vauzelles, alors qu'il lit Buffon ; demande involontairement invalide | Le monde paraît connaissable par les livres ; le fantastique entre dans la vie ordinaire par le téléphone |
 | Lycée | Arrivée à Dijon et études au lycée Carnot | La voix reste incomprise ou prise pour une plaisanterie | Développement du savoir encyclopédique |
 | Jeune adulte | Études, mariage, naissance d'un enfant, interruption des études | Première demande prise au sérieux : date récente refusée | Découverte de la limite des deux cents ans |
 | Installation | Reprise d'un petit commerce | Premiers voyages possiblement jeunes, rares et mal exploités | L'expérience précède encore sa compréhension |
@@ -18,8 +18,8 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 ## Points à résoudre
 
 - Circonstances précises de l'installation familiale à Dijon en 1974.
-- Date et âge exacts du premier voyage.
-- Nombre d'appels antérieurs et statut du « premier appel ».
+- Date et âge exacts du premier voyage ; le premier appel est fixé à dix ans.
+- Nombre d'appels entre le premier appel, fixé à dix ans, et le premier voyage.
 - Nature du commerce.
 - Chronologie fictive de la famille et des relations.
 - Temps écoulé dans le présent pendant chaque voyage.
