@@ -16,9 +16,9 @@ Le livre doit permettre à son auteur d'en apprendre beaucoup sur lui-même et s
 
 Sa biographie est **composite** : elle mêle librement des éléments venus de l'histoire du père, de la mère et d'autres personnes réelles, sans reproduire intégralement la vie d'aucune d'elles ni permettre d'identifier les personnages secondaires.
 
-L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à son fils fictif. Le récit principal prend donc la forme d'une longue transmission orale rétrospective. La confession pourrait se dérouler pendant un voyage partagé assez long pour tout raconter. Deux cadres sont actuellement envisagés : environ une semaine dans le Transsibérien, ou une croisière sur un bateau à voile dont les lieux successifs rappelleraient au héros ses différents voyages. Le cadre reste à choisir et à documenter.
+L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à un compagnon de voyage fictif avec lequel il va partager un assez long moment. Le récit principal prend donc la forme d'une longue confidence orale rétrospective. La confession pourrait se dérouler pendant un voyage partagé assez long pour tout raconter. Deux cadres sont actuellement envisagés : environ une semaine dans le Transsibérien, ou une croisière sur un bateau à voile dont les lieux successifs rappelleraient au héros ses différents voyages. Le cadre reste à choisir et à documenter.
 
-Le lecteur ne doit pas comprendre immédiatement que cette parole est adressée au fils. Le roman commence comme un récit autobiographique direct. Ce n'est qu'après une partie substantielle du livre qu'une interruption, une réponse ou un détail du présent révèle progressivement l'existence du fils et la situation d'énonciation en 2026. Les indices antérieurs doivent rester compatibles avec cette révélation sans la rendre évidente.
+Le lecteur ne doit pas comprendre immédiatement que cette parole est adressée à un compagnon. Le roman commence comme un récit autobiographique direct. Ce n'est qu'après une partie substantielle du livre qu'une interruption, une réponse ou un détail du présent révèle progressivement l'existence de l'auditeur et la situation d'énonciation en 2026. Les indices antérieurs doivent rester compatibles avec cette révélation sans la rendre évidente.
 
 ## 2. Ambition stylistique
 
@@ -64,9 +64,9 @@ Première phrase actuellement retenue :
 
 > Je suis né le 2 août 1951 à Nevers.
 
-Cette ouverture factuelle fait croire à des mémoires écrites et prépare ainsi la révélation différée du fils qui écoute réellement le récit.
+Cette ouverture factuelle fait croire à des mémoires écrites et prépare ainsi la révélation différée du compagnon qui écoute réellement le récit.
 
-En 2026, à soixante-quinze ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à son fils fictif. Le fils n'est pas un simple auditeur : ses questions, objections et incrédulités peuvent représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris.
+En 2026, à soixante-quinze ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à un compagnon fictif avec lequel il partage un long trajet. Le compagnon n'est pas un simple auditeur : ses questions, objections et incrédulités peuvent représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris. La nature exacte de leur relation, leur degré de familiarité initial et la raison de cette confiance restent à construire.
 
 ### 3.2. Petit commerçant et autodidacte
 
@@ -299,11 +299,11 @@ Les enseignements doivent être éprouvés dans la vie ordinaire. Il serait trop
 
 ### 8.5. Le récit-cadre en 2026
 
-À soixante-quinze ans, vers la fin de sa vie, le héros entreprend de raconter ses appels et ses voyages à son fils fictif. L'histoire entière est donc filtrée par sa mémoire, ses interprétations tardives et le dialogue avec ce fils.
+À soixante-quinze ans, vers la fin de sa vie, le héros entreprend de raconter ses appels et ses voyages à un compagnon fictif avec lequel il va partager un assez long moment. L'histoire entière est donc filtrée par sa mémoire, ses interprétations tardives et le dialogue avec ce compagnon.
 
-Cette situation n'est pas exposée au début. Pendant une partie substantielle du récit, le lecteur peut croire qu'il lit simplement les mémoires du héros. Le premier échange incontestablement adressé au fils révèle alors rétroactivement la nature orale et située du récit. Le moment précis de cette révélation reste à construire.
+Cette situation n'est pas exposée au début. Pendant une partie substantielle du récit, le lecteur peut croire qu'il lit simplement les mémoires du héros. Le premier échange incontestablement adressé au compagnon révèle alors rétroactivement la nature orale et située du récit. Le moment précis de cette révélation reste à construire.
 
-Le père et le fils pourraient effectuer ensemble un voyage assez long pour rendre possible cette confession : il faut bien une semaine, ou davantage, pour tout raconter.
+Le héros et son compagnon pourraient effectuer ensemble un voyage assez long pour rendre possible cette confidence : il faut bien une semaine, ou davantage, pour tout raconter.
 
 Deux hypothèses concurrentes sont envisagées :
 
@@ -312,13 +312,13 @@ Deux hypothèses concurrentes sont envisagées :
 
 Le voilier offre en outre une présence constante du vivant, des éléments, de l'entraide nécessaire à bord et des levers de soleil. Ces possibilités ne doivent cependant pas fixer indirectement les règles des appels matinaux.
 
-Le récit doit rester **chronologique**. Cet ordre est indispensable au *Bildungsroman* : chaque expérience transforme le héros et rend possible l'étape philosophique suivante. Les souvenirs, paysages et interventions du fils peuvent rythmer ou éclairer le récit, mais jamais rompre la chaîne causale de sa formation.
+Le récit doit rester **chronologique**. Cet ordre est indispensable au *Bildungsroman* : chaque expérience transforme le héros et rend possible l'étape philosophique suivante. Les souvenirs, paysages et interventions du compagnon peuvent rythmer ou éclairer le récit, mais jamais rompre la chaîne causale de sa formation.
 
 Cette hypothèse soulève des possibilités à examiner :
 
 - division du livre selon les jours ou les étapes ;
 - récit interrompu par les repas, les gares, les paysages et les autres voyageurs ;
-- évolution parallèle de la relation entre le père et le fils ;
+- évolution parallèle de la relation entre le héros et son compagnon ;
 - fiabilité de la mémoire du héros ;
 - ambiguïté du mot « ici » prononcé depuis un train en mouvement ;
 - effets des fuseaux horaires et des levers de soleil, à ne traiter qu'après fixation des règles des appels matinaux.
@@ -479,7 +479,7 @@ Le sens d'une action ne dépend pas de la possibilité d'en rapporter le résult
 
 À la fin de la série, le héros est très vieux — biologiquement, subjectivement, ou les deux selon les règles temporelles qui seront fixées. Il ignore toujours qui est la voix et ne sait pas si cet appel sera le dernier.
 
-Le récit-cadre se déroule en 2026, alors qu'il a soixante-quinze ans et arrive vers la fin de sa vie. Si l'hypothèse du Transsibérien est retenue, le dernier appel peut survenir pendant ou à l'issue du voyage raconté à son fils.
+Le récit-cadre se déroule en 2026, alors qu'il a soixante-quinze ans et arrive vers la fin de sa vie. Le dernier appel peut survenir pendant ou à l'issue du voyage raconté à son compagnon.
 
 La voix demande :
 
@@ -518,14 +518,15 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - âge exact de chaque appel et voyage ;
 - fréquence des appels au cours de sa vie ;
 - place de la boutique dans son évolution morale.
-- personnalité, âge et rôle exacts du fils fictif qui reçoit le récit en 2026 ;
+- personnalité, âge et rôle exacts du compagnon fictif qui reçoit le récit en 2026 ;
+- relation initiale entre le héros et ce compagnon, et raison pour laquelle il lui accorde sa confiance ;
 - choix entre le Transsibérien, une croisière à la voile ou un autre voyage partagé ;
 - direction du trajet, étapes, durée et circonstances pratiques du cadre retenu ;
 - architecture du récit-cadre : sept jours, étapes ferroviaires ou autre découpage.
 - correspondance entre l'ordre chronologique des voyages et les étapes du trajet-cadre.
-- nature des indices discrets précédant la révélation du fils ;
+- nature des indices discrets précédant la révélation du compagnon ;
 - moment et formulation exacte de la première interruption révélant le destinataire ;
-- révélation simultanée ou successive du fils, de l'année 2026 et du moyen de transport.
+- révélation simultanée ou successive du compagnon, de l'année 2026 et du moyen de transport.
 
 ### Voyages
 
