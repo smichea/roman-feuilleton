@@ -2,17 +2,19 @@
 
 ## Canon
 
+Le terme « compagnon » désigne provisoirement la personne qui partage le trajet et reçoit la confidence ; la nature exacte de leur relation reste ouverte.
+
 - L'histoire est racontée en 2026.
 - Le héros, né le 2 août 1951 à Nevers, a soixante-quinze ans et arrive vers la fin de sa vie.
-- Il raconte ses appels et ses voyages à son fils fictif.
-- Le dialogue avec le fils permet les objections, les demandes de précision et la mise à l'épreuve de la mémoire du héros.
-- Le lecteur ignore d'abord que le récit est adressé au fils ; la situation d'énonciation n'est révélée qu'après une partie substantielle du livre.
+- Il raconte ses appels et ses voyages à un compagnon de voyage fictif.
+- Le dialogue avec le compagnon permet les objections, les demandes de précision et la mise à l'épreuve de la mémoire du héros.
+- Le lecteur ignore d'abord que le récit est adressé au compagnon ; la situation d'énonciation n'est révélée qu'après une partie substantielle du livre.
 - La confession se déroule probablement pendant un voyage partagé assez long pour donner le temps de tout raconter.
 - Le héros raconte ses voyages dans l'ordre chronologique où il les a vécus. Cet ordre est nécessaire à sa progression philosophique.
 
 ## Option A — Le Transsibérien
 
-Le père et le fils voyagent ensemble pendant environ une semaine. Le trajet apporte :
+Le héros et son compagnon voyagent ensemble pendant environ une semaine. Le trajet apporte :
 
 - un espace clos mais changeant ;
 - des interruptions naturelles : gares, repas, nuits, rencontres et paysages ;
@@ -23,11 +25,11 @@ Le père et le fils voyagent ensemble pendant environ une semaine. Le trajet app
 
 ## Option B — Une croisière sur un bateau à voile
 
-Le père et le fils naviguent ensemble. Les lieux traversés rappellent au héros ses différents voyages. Le voilier apporte :
+Le héros et son compagnon naviguent ensemble. Les lieux traversés rappellent au héros ses différents voyages. Le voilier apporte :
 
 - un itinéraire dont les côtes, ports, vents et paysages font écho aux voyages racontés dans leur ordre chronologique ;
 - une proximité concrète avec les éléments et le vivant ;
-- une coopération nécessaire entre le père et le fils ;
+- une coopération nécessaire entre le héros et son compagnon ;
 - des aléas météorologiques capables d'interrompre ou déplacer le récit ;
 - des escales pouvant correspondre à plusieurs époques racontées ;
 - une autre ambiguïté finale : « ici » désigne-t-il le bateau, la mer ou les coordonnées de l'instant ?
@@ -65,11 +67,11 @@ Les questions de lever du soleil ne doivent pas fixer indirectement les règles 
 
 ## Questions narratives communes
 
-- Pourquoi le fils accepte-t-il ce voyage ?
+- Pourquoi le compagnon partage-t-il ce voyage avec le héros ??
 - Que sait-il déjà de son père ?
 - Le croit-il au commencement ?
 - Pourquoi le héros choisit-il 2026 pour parler ?
-- Le fils interrompt-il, vérifie-t-il ou accuse-t-il ?
+- Le compagnon interrompt-il, vérifie-t-il ou accuse-t-il ?
 - Comment les associations provoquées par le trajet renforcent-elles l'ordre chronologique sans le rompre ?
 - Le dernier appel survient-il en chemin, lors d'une étape ou après l'arrivée ?
 
@@ -90,12 +92,12 @@ Le récit peut s'ouvrir par :
 
 ### Scène de révélation
 
-Une première intervention incontestable du fils interrompt le récit. Elle doit obliger le lecteur à reconfigurer ce qu'il vient de lire : le narrateur ne rédigeait pas seul ses mémoires, il parlait à son fils dans un lieu et un temps présents.
+Une première intervention incontestable du compagnon interrompt le récit. Elle doit obliger le lecteur à reconfigurer ce qu'il vient de lire : le narrateur ne rédigeait pas seul ses mémoires, il parlait à son fils dans un lieu et un temps présents.
 
 L'année 2026 et le cadre du voyage peuvent être révélés dans la même scène ou plus progressivement.
 
 ### Après la révélation
 
-- Les interventions du fils deviennent visibles.
+- Les interventions du compagnon deviennent visibles.
 - Le récit des voyages demeure chronologique.
 - Le cadre contemporain peut revenir entre les grandes étapes sans concurrencer leur progression philosophique.
