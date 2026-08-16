@@ -11,6 +11,8 @@
 - Ses parents s'installent à Dijon en 1974, lorsqu'il a quatre ans.
 - Il conserve très peu de souvenirs de ses premières années à Nevers.
 - Il reçoit son premier appel à dix ans, pendant des vacances chez ses grands-parents à Varennes-Vauzelles, alors qu'il lit Buffon.
+- Il reçoit un deuxième appel à douze ans depuis un téléphone public, après avoir pris la mauvaise ligne d'autobus en rentrant de l'école.
+- Il reçoit un troisième appel à quinze ans, alors qu'il joue sur son Amstrad ; il comprend enfin les trois questions et décide de préparer le prochain appel.
 - Devient ensuite élève du lycée Carnot à Dijon.
 - Commence des études qu'il interrompt après son mariage et la naissance d'un enfant.
 - Reprend un petit commerce grâce à une occasion.
