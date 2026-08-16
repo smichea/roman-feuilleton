@@ -100,3 +100,21 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 ### À construire
 
 - Date et raison du passage de Nevers à Dijon.
+
+
+## 2026-08-16 — Le destinataire devient un compagnon de voyage
+
+### Décidé
+
+- L'hypothèse selon laquelle le héros parlait à son fils est abandonnée.
+- En 2026, le héros confie son histoire à un compagnon fictif avec lequel il partage un trajet assez long.
+- Le lecteur découvre tardivement l'existence de cet auditeur, comme prévu pour le fils auparavant.
+- Le compagnon peut interroger, contredire et représenter les objections du lecteur.
+
+### À construire
+
+- Identité, âge et personnalité du compagnon.
+- Nature de leur relation avant le voyage.
+- Circonstances qui les obligent ou les conduisent à partager ce temps.
+- Raison pour laquelle le héros choisit de se confier à lui.
+- Évolution de leur relation pendant le récit.
