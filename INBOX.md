@@ -13,7 +13,7 @@ Une entrée peut avoir l'un des statuts suivants :
 
 ### 2026-08-16 — Le Transsibérien comme récit-cadre
 
-**Statut :** Hypothèse forte
+**Statut :** Hypothèse
 
 Idée brute :
 
@@ -28,6 +28,23 @@ Idée brute :
 - place du dernier appel ;
 - ambiguïté de « ici » dans un train en mouvement ;
 - fuseaux horaires et levers du soleil, après définition des appels matinaux.
+
+### 2026-08-16 — Une croisière à la voile comme récit-cadre
+
+**Statut :** Hypothèse
+
+Idée brute :
+
+> Le héros raconte son histoire à son fils au cours d'une croisière sur un bateau à voile. Les lieux traversés lui rappellent ses différents voyages.
+
+Potentialités :
+
+- narration déclenchée par les paysages plutôt que strictement chronologique ;
+- ports et côtes faisant écho aux mondes visités ;
+- relation père-fils éprouvée par la vie à bord ;
+- présence de la mer, du vivant, du vent et des levers de soleil ;
+- ambiguïté de « ici » sur un bateau en mouvement ;
+- nécessité de choisir un itinéraire plausible et suffisamment long.
 
 ## Gabarit
 
