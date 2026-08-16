@@ -23,7 +23,7 @@ La voix rend les voyages possibles mais ne doit pas être réduite à un simple 
 6. **Lien avec le compagnon** — celui-ci reconnaît ou connaît quelque chose qu'il ne devrait pas savoir.
 7. **Dernier appel** — la réponse « une seconde avant ma mort » constitue l'ultime test de la règle.
 
-Cette liste est une architecture de travail, pas encore une suite canonique de révélations.
+Cette liste est une architecture de travail, pas encore une suite canonique de révélations. Ces seuils devront être distribués entre les livres : chacun se termine sur une compréhension qui ouvre le suivant.
 
 ## Hypothèses concernant le compagnon
 
@@ -50,6 +50,8 @@ Option à fort effet de révélation, mais risquée : elle peut rendre artificie
 - Laisser la voix posséder des limites.
 - Éviter qu'une explication technique finale rétrécisse la portée philosophique.
 - Distinguer la révélation du compagnon de la révélation de son lien avec la voix.
+- Dans le livre I, ne faire entendre que le récit du héros : aucun indice ne peut provenir d'une parole ou d'une réaction perceptible du compagnon.
+- Faire de chaque fin de livre un seuil de compréhension du phénomène, et non une simple suspension artificielle de l'action.
 
 ## Questions ouvertes
 
