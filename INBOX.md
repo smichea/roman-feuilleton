@@ -17,14 +17,14 @@ Une entrée peut avoir l'un des statuts suivants :
 
 Idée brute :
 
-> En 2026, à la fin de sa vie, le héros raconte son histoire à son fils pendant un voyage dans le Transsibérien. Le trajet dure environ une semaine : il faut bien une semaine pour tout raconter.
+> En 2026, à la fin de sa vie, le héros raconte son histoire à un compagnon de voyage pendant un voyage dans le Transsibérien. Le trajet dure environ une semaine : il faut bien une semaine pour tout raconter.
 
 À examiner :
 
 - plausibilité et détails du trajet en 2026 ;
 - direction et gares ;
 - découpage éventuel en sept journées ;
-- rôle dramatique du fils ;
+- rôle dramatique du compagnon ;
 - place du dernier appel ;
 - ambiguïté de « ici » dans un train en mouvement ;
 - fuseaux horaires et levers du soleil, après définition des appels matinaux.
@@ -35,13 +35,13 @@ Idée brute :
 
 Idée brute :
 
-> Le héros raconte son histoire à son fils au cours d'une croisière sur un bateau à voile. Les lieux traversés lui rappellent ses différents voyages.
+> Le héros raconte son histoire à un compagnon au cours d'une croisière sur un bateau à voile. Les lieux traversés lui rappellent ses différents voyages.
 
 Potentialités :
 
 - récit maintenu dans l'ordre chronologique ; les paysages font écho à l'étape racontée sans en modifier l'ordre ;
 - ports et côtes faisant écho aux mondes visités ;
-- relation père-fils éprouvée par la vie à bord ;
+- relation entre le héros et son compagnon éprouvée par la vie à bord ;
 - présence de la mer, du vivant, du vent et des levers de soleil ;
 - ambiguïté de « ici » sur un bateau en mouvement ;
 - nécessité de choisir un itinéraire plausible et suffisamment long.
