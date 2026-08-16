@@ -4,7 +4,7 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 
 | Phase | Vie présente | Rapport aux appels et aux voyages | Transformation |
 |---|---|---|---|
-| Enfance | Naissance le 2 août 1951 à Nevers ; livres et formation de la curiosité | Appels éventuellement manqués ou interrompus ; séquence exacte à fixer | Le monde paraît connaissable par les livres |
+| Enfance | Naissance le 2 août 1970 à Nevers ; installation à Dijon en 1974 ; livres et formation de la curiosité | Appels éventuellement manqués ou interrompus ; séquence exacte à fixer | Le monde paraît connaissable par les livres |
 | Lycée | Arrivée à Dijon et études au lycée Carnot | La voix reste incomprise ou prise pour une plaisanterie | Développement du savoir encyclopédique |
 | Jeune adulte | Études, mariage, naissance d'un enfant, interruption des études | Première demande prise au sérieux : date récente refusée | Découverte de la limite des deux cents ans |
 | Installation | Reprise d'un petit commerce | Premiers voyages possiblement jeunes, rares et mal exploités | L'expérience précède encore sa compréhension |
@@ -12,12 +12,12 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 | Maturité | Le commerce et les relations ordinaires éprouvent ses idées | Compréhension progressive des clones et de la divergence | Passage du profit personnel à la responsabilité envers les mondes visités |
 | Âge mûr | Application dans le présent des enseignements reçus ailleurs | Les appels ne doivent plus gouverner toute son existence | Non-violence, démocratie, soin du vivant et attention aux générations futures deviennent pratiques |
 | Vieillesse | Transmission, livres, projets dont il ne verra pas nécessairement l'issue | Enquête sur la voix sans certitude d'un nouvel appel | Acceptation de l'inconnu sans disparition de la curiosité |
-| Récit-cadre, 2026 | À soixante-quinze ans, vers la fin de sa vie, il raconte tout à un compagnon de voyage fictif | Le lecteur ne découvre qu'après une partie substantielle que le récit est adressé à ce compagnon ; train ou voilier restent envisagés | La transmission donne enfin une forme partageable à ses vies invisibles |
+| Récit-cadre, 2056 | À quatre-vingt-six ans, vers la fin de sa vie, il raconte tout à un compagnon de voyage fictif | Pendant le livre I, seul son récit est audible ; le compagnon sera révélé dans un livre ultérieur ; train ou voilier restent envisagés | La transmission donne enfin une forme partageable à ses vies invisibles |
 | Dernier appel | Ici et maintenant | « Une seconde avant ma mort » | La mort devient la dernière expérience inconnue |
 
 ## Points à résoudre
 
-- Circonstances du passage de Nevers à Dijon.
+- Circonstances précises de l'installation familiale à Dijon en 1974.
 - Date et âge exacts du premier voyage.
 - Nombre d'appels antérieurs et statut du « premier appel ».
 - Nature du commerce.
