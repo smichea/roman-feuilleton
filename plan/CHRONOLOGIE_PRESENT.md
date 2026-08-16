@@ -5,7 +5,7 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 | Phase | Vie présente | Rapport aux appels et aux voyages | Transformation |
 |---|---|---|---|
 | Enfance | Naissance le 2 août 1970 à Nevers de parents étudiants ; installation à Dijon en 1974 ; le père devient fonctionnaire et la mère institutrice ; livres et formation de la curiosité | Premier appel à dix ans chez les grands-parents à Varennes-Vauzelles, alors qu'il lit Buffon ; demande involontairement invalide | Le monde paraît connaissable par les livres ; le fantastique entre dans la vie ordinaire par le téléphone |
-| Lycée | Arrivée à Dijon et études au lycée Carnot | La voix reste incomprise ou prise pour une plaisanterie | Développement du savoir encyclopédique |
+| Collège et lycée | Études à Dijon, déplacements autonomes en autobus, découverte de l'informatique domestique | Deuxième appel à douze ans depuis un téléphone public ; troisième appel à quinze ans devant son Amstrad ; découverte qu'une date suffisamment ancienne est exigée | La voix cesse d'être une anomalie oubliée et devient un problème auquel il décide de se préparer |
 | Jeune adulte | Études, mariage, naissance d'un enfant, interruption des études | Première demande prise au sérieux : date récente refusée | Découverte de la limite des deux cents ans |
 | Installation | Reprise d'un petit commerce | Premiers voyages possiblement jeunes, rares et mal exploités | L'expérience précède encore sa compréhension |
 | Vie commerçante | Travail, famille fictive, bibliothèque toujours croissante | Appels imprévisibles ; tentatives initiales d'utiliser le passé au profit du présent | Apparition d'une double vie intérieure |
