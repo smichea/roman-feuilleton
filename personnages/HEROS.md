@@ -1,12 +1,12 @@
 # Le héros
 
-> Je suis né le 2 août 1951 à Nevers, dans le quartier du Banlay. Mon père était ouvrier et ma mère repasseuse. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
+> Je suis né le 2 août 1970 à Nevers, dans le quartier du Banlay. Mon père était ouvrier et ma mère repasseuse. J'ai très peu de souvenirs de ces premières années, car mes parents se sont installés à Dijon quand j'avais quatre ans.
 
 ## Établi
 
-- Né le 2 août 1951 à Nevers, dans le quartier du Banlay.
+- Né le 2 août 1970 à Nevers, dans le quartier du Banlay.
 - Son père est ouvrier et sa mère repasseuse.
-- Ses parents s'installent à Dijon lorsqu'il a quatre ans.
+- Ses parents s'installent à Dijon en 1974, lorsqu'il a quatre ans.
 - Il conserve très peu de souvenirs de ses premières années à Nevers.
 - Devient ensuite élève du lycée Carnot à Dijon.
 - Commence des études qu'il interrompt après son mariage et la naissance d'un enfant.
@@ -19,7 +19,7 @@
 - Intellectuellement cultivé, mais moralement ordinaire au commencement.
 - Le personnage est fictif et composite : sa biographie mêle des éléments venus du père, de la mère et d'autres personnes, sans reproduire intégralement aucune vie réelle.
 - Ses réactions sont écrites en se demandant ce que l'auteur ferait réellement dans la même situation.
-- En 2026, à soixante-quinze ans et vers la fin de sa vie, il raconte son histoire à un compagnon de voyage fictif.
+- En 2056, à quatre-vingt-six ans et vers la fin de sa vie, il raconte son histoire à un compagnon de voyage fictif.
 
 ## Inspiration
 
