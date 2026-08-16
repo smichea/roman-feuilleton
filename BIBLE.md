@@ -14,6 +14,8 @@ Le héros voyage dans des copies parallèles du passé. Chaque voyage constitue 
 
 Le livre doit permettre à son auteur d'en apprendre beaucoup sur lui-même et sur le monde. Le héros n'est toutefois ni Sébastien Michea ni Jacky Michea. C'est un personnage entièrement fictif. Pour imaginer ses réactions, l'auteur pourra se demander : **« À sa place, que ferais-je réellement ? »**, sans lui donner pour autant sa propre identité, son métier ou sa formation.
 
+L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à son fils fictif. Le récit principal prend donc la forme d'une longue transmission orale rétrospective. L'hypothèse privilégiée est que cette confession se déroule au cours d'un voyage d'environ une semaine dans le Transsibérien : la durée du trajet donne matériellement le temps nécessaire pour tout raconter. Ce lieu précis reste à confirmer et à documenter.
+
 ## 2. Ambition stylistique
 
 Le style recherché mêlerait, sans devenir un assemblage de pastiches :
@@ -53,6 +55,8 @@ Le héros reste à nommer. Il est entièrement fictif, mais sa biographie repren
 L'arrêt des études ne constitue pas nécessairement chez lui un traumatisme ou le regret d'une vie universitaire manquée. Il est orienté vers le présent et l'avenir : ce qui l'intéresse est ce qu'il peut faire maintenant et ce que ses actes rendront possible demain.
 
 Les autres personnes de sa vie seront fictives. Le roman ne doit pas transformer les véritables proches de Jack ou de Sébastien en personnages reconnaissables.
+
+En 2026, à soixante-quinze ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à son fils fictif. Le fils n'est pas un simple auditeur : ses questions, objections et incrédulités peuvent représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris.
 
 ### 3.2. Petit commerçant et autodidacte
 
@@ -283,6 +287,21 @@ Les voyages doivent progressivement modifier sa manière de vivre dans son monde
 
 Les enseignements doivent être éprouvés dans la vie ordinaire. Il serait trop facile d'être sage seulement dans des mondes que l'on peut quitter.
 
+### 8.5. Le récit-cadre en 2026
+
+À soixante-quinze ans, vers la fin de sa vie, le héros entreprend de raconter ses appels et ses voyages à son fils fictif. L'histoire entière est donc filtrée par sa mémoire, ses interprétations tardives et le dialogue avec ce fils.
+
+Hypothèse forte : ils effectuent ensemble un voyage d'environ une semaine dans le Transsibérien. Le mouvement continu du train, les étapes, les nuits et les changements de fuseau horaire peuvent rythmer les grandes parties du récit. Le trajet donne aussi une raison matérielle à leur disponibilité mutuelle : il faut bien une semaine pour tout raconter.
+
+Cette hypothèse soulève des possibilités à examiner :
+
+- division du livre selon les jours ou les étapes ;
+- récit interrompu par les repas, les gares, les paysages et les autres voyageurs ;
+- évolution parallèle de la relation entre le père et le fils ;
+- fiabilité de la mémoire du héros ;
+- ambiguïté du mot « ici » prononcé depuis un train en mouvement ;
+- effets des fuseaux horaires et des levers de soleil, à ne traiter qu'après fixation des règles des appels matinaux.
+
 ## 9. Progression philosophique
 
 Le héros est érudit, mais il n'est pas sage dès le début. Son point de départ reste moralement ordinaire :
@@ -439,6 +458,8 @@ Le sens d'une action ne dépend pas de la possibilité d'en rapporter le résult
 
 À la fin de la série, le héros est très vieux — biologiquement, subjectivement, ou les deux selon les règles temporelles qui seront fixées. Il ignore toujours qui est la voix et ne sait pas si cet appel sera le dernier.
 
+Le récit-cadre se déroule en 2026, alors qu'il a soixante-quinze ans et arrive vers la fin de sa vie. Si l'hypothèse du Transsibérien est retenue, le dernier appel peut survenir pendant ou à l'issue du voyage raconté à son fils.
+
 La voix demande :
 
 > — Où ?  
@@ -474,6 +495,10 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - âge exact de chaque appel et voyage ;
 - fréquence des appels au cours de sa vie ;
 - place de la boutique dans son évolution morale.
+- personnalité, âge et rôle exacts du fils fictif qui reçoit le récit en 2026 ;
+- confirmation ou abandon du Transsibérien comme cadre de la confession ;
+- direction du trajet, étapes, durée et circonstances pratiques si ce cadre est retenu ;
+- architecture du récit-cadre : sept jours, étapes ferroviaires ou autre découpage.
 
 ### Voyages
 
