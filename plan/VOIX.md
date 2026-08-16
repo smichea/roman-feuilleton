@@ -12,16 +12,18 @@ La voix rend les voyages possibles mais ne doit pas être réduite à un simple 
 - Elle refuse une date qui ne précède pas d'au moins deux cents ans le présent originel.
 - Son langage peut prendre la forme d'une procédure administrative appliquée à une réalité métaphysique.
 - Elle ne garantit jamais qu'un nouvel appel aura lieu.
+- Elle évolue réellement au cours du temps : sa compréhension, son langage et sa manière d'interagir ne restent pas identiques.
 
 ## Progression possible des découvertes
 
 1. **Existence** — la demande refusée prouve que les appels obéissent à une règle.
 2. **Littéralité** — la voix interprète précisément les réponses et refuse les formulations inadmissibles.
 3. **Limites** — elle ne répond pas à toutes les questions ou ne possède pas toute l'information.
-4. **Humanité possible** — hésitation, humour, irritation ou choix de mots suggèrent qu'elle n'est peut-être pas une machine.
-5. **Pluralité possible** — certains indices suggèrent que le héros n'est peut-être pas le seul appelé.
-6. **Lien avec le compagnon** — celui-ci reconnaît ou connaît quelque chose qu'il ne devrait pas savoir.
-7. **Dernier appel** — la réponse « une seconde avant ma mort » constitue l'ultime test de la règle.
+4. **Évolution perceptible** — son langage devient moins rigide, sa compréhension plus fine ou ses réponses plus personnelles.
+5. **Humanité possible** — hésitation, humour, irritation ou choix de mots suggèrent qu'elle n'est peut-être pas une machine.
+6. **Pluralité possible** — certains indices suggèrent que le héros n'est peut-être pas le seul appelé.
+7. **Lien avec le compagnon** — celui-ci reconnaît ou connaît quelque chose qu'il ne devrait pas savoir.
+8. **Dernier appel** — la réponse « une seconde avant ma mort » constitue l'ultime test de la règle.
 
 Cette liste est une architecture de travail, pas encore une suite canonique de révélations. Ces seuils devront être distribués entre les livres : chacun se termine sur une compréhension qui ouvre le suivant.
 
@@ -56,6 +58,7 @@ Option à fort effet de révélation, mais risquée : elle peut rendre artificie
 ## Questions ouvertes
 
 - La voix est-elle toujours la même ?
+- Apprend-elle au contact du héros, change-t-elle d'interlocuteur ou le dispositif lui-même se transforme-t-il ?
 - Est-elle humaine, artificielle ou autre ?
 - Connaît-elle les événements vécus dans les copies ?
 - Choisit-elle les personnes appelées et les corps d'accueil ?
