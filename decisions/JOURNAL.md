@@ -44,3 +44,18 @@ Dernier appel :
 > — Une seconde avant ma mort.
 
 Le roman s'arrête sans expliquer la voix ni la suite.
+
+
+## 2026-08-16 — Récit-cadre
+
+### Décidé
+
+- L'histoire est racontée en 2026 par le héros à son fils fictif.
+- Né en 1951, le héros a soixante-quinze ans et se trouve vers la fin de sa vie.
+- Le fils et leur relation sont entièrement fictifs.
+
+### Hypothèse forte
+
+- La confession se déroule pendant un voyage d'environ une semaine dans le Transsibérien.
+- La durée du trajet fournit le temps matériel nécessaire pour tout raconter.
+- Cette hypothèse doit être documentée avant de devenir canonique.
