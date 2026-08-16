@@ -16,6 +16,8 @@ Le livre doit permettre à son auteur d'en apprendre beaucoup sur lui-même et s
 
 L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à son fils fictif. Le récit principal prend donc la forme d'une longue transmission orale rétrospective. La confession pourrait se dérouler pendant un voyage partagé assez long pour tout raconter. Deux cadres sont actuellement envisagés : environ une semaine dans le Transsibérien, ou une croisière sur un bateau à voile dont les lieux successifs rappelleraient au héros ses différents voyages. Le cadre reste à choisir et à documenter.
 
+Le lecteur ne doit pas comprendre immédiatement que cette parole est adressée au fils. Le roman commence comme un récit autobiographique direct. Ce n'est qu'après une partie substantielle du livre qu'une interruption, une réponse ou un détail du présent révèle progressivement l'existence du fils et la situation d'énonciation en 2026. Les indices antérieurs doivent rester compatibles avec cette révélation sans la rendre évidente.
+
 ## 2. Ambition stylistique
 
 Le style recherché mêlerait, sans devenir un assemblage de pastiches :
@@ -291,6 +293,8 @@ Les enseignements doivent être éprouvés dans la vie ordinaire. Il serait trop
 
 À soixante-quinze ans, vers la fin de sa vie, le héros entreprend de raconter ses appels et ses voyages à son fils fictif. L'histoire entière est donc filtrée par sa mémoire, ses interprétations tardives et le dialogue avec ce fils.
 
+Cette situation n'est pas exposée au début. Pendant une partie substantielle du récit, le lecteur peut croire qu'il lit simplement les mémoires du héros. Le premier échange incontestablement adressé au fils révèle alors rétroactivement la nature orale et située du récit. Le moment précis de cette révélation reste à construire.
+
 Le père et le fils pourraient effectuer ensemble un voyage assez long pour rendre possible cette confession : il faut bien une semaine, ou davantage, pour tout raconter.
 
 Deux hypothèses concurrentes sont envisagées :
@@ -509,6 +513,9 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - direction du trajet, étapes, durée et circonstances pratiques du cadre retenu ;
 - architecture du récit-cadre : sept jours, étapes ferroviaires ou autre découpage.
 - correspondance entre l'ordre chronologique des voyages et les étapes du trajet-cadre.
+- nature des indices discrets précédant la révélation du fils ;
+- moment et formulation exacte de la première interruption révélant le destinataire ;
+- révélation simultanée ou successive du fils, de l'année 2026 et du moyen de transport.
 
 ### Voyages
 
