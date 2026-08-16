@@ -18,7 +18,9 @@ Sa biographie est **composite** : elle mêle librement des éléments venus de l
 
 L'histoire est racontée en **2026** par le héros, âgé de soixante-quinze ans et arrivé vers la fin de sa vie, à un compagnon de voyage fictif avec lequel il va partager un assez long moment. Le récit principal prend donc la forme d'une longue confidence orale rétrospective. La confession pourrait se dérouler pendant un voyage partagé assez long pour tout raconter. Deux cadres sont actuellement envisagés : environ une semaine dans le Transsibérien, ou une croisière sur un bateau à voile dont les lieux successifs rappelleraient au héros ses différents voyages. Le cadre reste à choisir et à documenter.
 
-Le lecteur ne doit pas comprendre immédiatement que cette parole est adressée à un compagnon. Le roman commence comme un récit autobiographique direct. Ce n'est qu'après une partie substantielle du livre qu'une interruption, une réponse ou un détail du présent révèle progressivement l'existence de l'auditeur et la situation d'énonciation en 2026. Les indices antérieurs doivent rester compatibles avec cette révélation sans la rendre évidente.
+Le lecteur ne doit pas comprendre immédiatement que cette parole est adressée à un compagnon. Le roman commence comme un récit autobiographique direct. **Pendant tout le premier livre, on n'entend que le récit du héros : jamais la voix du compagnon.** Rien ne doit obliger le lecteur à identifier un dialogue ou un auditeur présent. La révélation du compagnon appartient à un livre ultérieur ; son moment exact reste à déterminer.
+
+La série avance par **seuils de compréhension**. Chaque livre conduit chronologiquement le héros jusqu'à une découverte, une révélation ou une compréhension décisive. Cette conclusion ouvre immédiatement le problème du livre suivant : les volumes ne sont pas des aventures indépendantes, mais les étapes successives d'une même formation philosophique et d'une même enquête sur les voyages et la voix.
 
 ## 2. Ambition stylistique
 
@@ -64,9 +66,9 @@ Première phrase actuellement retenue :
 
 > Je suis né le 2 août 1951 à Nevers.
 
-Cette ouverture factuelle fait croire à des mémoires écrites et prépare ainsi la révélation différée du compagnon qui écoute réellement le récit.
+Cette ouverture factuelle fait croire à des mémoires écrites. Cette lecture doit pouvoir se maintenir pendant tout le premier livre, puisque le compagnon n'y est jamais entendu.
 
-En 2026, à soixante-quinze ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à un compagnon fictif avec lequel il partage un long trajet. Le compagnon n'est pas un simple auditeur : ses questions, objections et incrédulités peuvent représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris. La nature exacte de leur relation, leur degré de familiarité initial et la raison de cette confiance restent à construire.
+En 2026, à soixante-quinze ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à un compagnon fictif avec lequel il partage un long trajet. Dans le premier livre, ce compagnon demeure entièrement silencieux pour le lecteur. Après sa révélation dans un volume ultérieur, ses questions, objections et incrédulités pourront représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris. La nature exacte de leur relation, leur degré de familiarité initial et la raison de cette confiance restent à construire.
 
 Une hypothèse structurante est que ce compagnon ne soit pas étranger à la voix. Il pourrait avoir reçu des appels, reconnaître certaines formulations, connaître une règle que le héros ne lui a pas encore dite, rechercher lui-même l'origine du phénomène ou entretenir un lien plus direct avec lui. Cette connexion doit permettre de révéler progressivement des propriétés de la voix sans nécessairement expliquer son origine ultime.
 
@@ -303,7 +305,7 @@ Les enseignements doivent être éprouvés dans la vie ordinaire. Il serait trop
 
 À soixante-quinze ans, vers la fin de sa vie, le héros entreprend de raconter ses appels et ses voyages à un compagnon fictif avec lequel il va partager un assez long moment. L'histoire entière est donc filtrée par sa mémoire, ses interprétations tardives et le dialogue avec ce compagnon.
 
-Cette situation n'est pas exposée au début. Pendant une partie substantielle du récit, le lecteur peut croire qu'il lit simplement les mémoires du héros. Le premier échange incontestablement adressé au compagnon révèle alors rétroactivement la nature orale et située du récit. Le moment précis de cette révélation reste à construire.
+Cette situation n'est pas exposée au début. Pendant tout le premier livre, le lecteur n'entend que le héros et peut croire qu'il lit simplement ses mémoires. Le compagnon n'intervient pas de façon audible et aucun détail ne doit imposer l'existence d'un auditeur. Sa première manifestation explicite aura lieu dans un livre ultérieur et révélera rétroactivement la nature orale et située du récit.
 
 Le héros et son compagnon pourraient effectuer ensemble un voyage assez long pour rendre possible cette confidence : il faut bien une semaine, ou davantage, pour tout raconter.
 
@@ -314,7 +316,7 @@ Deux hypothèses concurrentes sont envisagées :
 
 Le voilier offre en outre une présence constante du vivant, des éléments, de l'entraide nécessaire à bord et des levers de soleil. Ces possibilités ne doivent cependant pas fixer indirectement les règles des appels matinaux.
 
-Le récit doit rester **chronologique**. Cet ordre est indispensable au *Bildungsroman* : chaque expérience transforme le héros et rend possible l'étape philosophique suivante. Les souvenirs, paysages et interventions du compagnon peuvent rythmer ou éclairer le récit, mais jamais rompre la chaîne causale de sa formation.
+Le récit doit rester **chronologique**. Cet ordre est indispensable au *Bildungsroman* : chaque expérience transforme le héros et rend possible l'étape philosophique suivante. Chaque livre s'achève sur une révélation ou une compréhension qui rend possible le suivant. Après que son existence aura été révélée, les interventions du compagnon pourront rythmer ou éclairer le récit, mais jamais rompre la chaîne causale de la formation.
 
 Cette hypothèse soulève des possibilités à examiner :
 
@@ -325,157 +327,110 @@ Cette hypothèse soulève des possibilités à examiner :
 - ambiguïté du mot « ici » prononcé depuis un train en mouvement ;
 - effets des fuseaux horaires et des levers de soleil, à ne traiter qu'après fixation des règles des appels matinaux.
 
-## 9. Progression philosophique
+## 9. La première phase morale : exploiter le passé
 
-Le héros est érudit, mais il n'est pas sage dès le début. Son point de départ reste moralement ordinaire :
+Au début, le héros cherche à utiliser les voyages pour améliorer son présent originel.
 
-- il admet certaines violences comme nécessaires ;
-- il considère la démocratie représentative comme la forme normale de la démocratie ;
-- il pense qu'une technologie efficace constitue généralement un progrès ;
-- il cherche d'abord à profiter personnellement de ses voyages ;
-- il croit volontiers que davantage de connaissances lui donnera raison ;
-- sa bienveillance concerne principalement son entourage immédiat.
+Il peut tenter de :
 
-Chaque voyage doit mettre en crise l'une de ses convictions.
+- découvrir un trésor ou un objet enfoui ;
+- obtenir des informations financières ;
+- apprendre un secret ;
+- vérifier une énigme historique ;
+- influencer une invention ;
+- empêcher une catastrophe ;
+- conseiller un puissant ;
+- vivre dans le luxe en convainquant un souverain qu'il vient du futur.
 
-### 9.1. Humilité intellectuelle
+Ces tentatives ne sont pas nécessairement ignobles. Il peut vouloir aider sa famille ou prévenir des souffrances. Mais il traite encore le passé comme une ressource au service de son présent.
 
-Le savoir moderne ne rend pas omniscient. Les anciens ne sont pas stupides. Connaître un résultat n'est pas savoir le reconstruire ni le rendre opératoire.
+## 10. Découverte de la futilité causale
 
-### 9.2. Luxe et travail invisible
+Progressivement, il comprend :
 
-Le confort et les privilèges reposent sur le travail, les ressources et parfois la souffrance d'autres personnes. Un avantage doit être examiné depuis la position de ceux qui le rendent possible.
+1. qu'il ne visite pas son propre passé ;
+2. que ses actions créent une divergence réelle ;
+3. qu'un nouveau voyage ne le ramène jamais dans un monde déjà modifié ;
+4. que rien ne remonte vers son présent originel ;
+5. que les habitants du monde parallèle ne sont pourtant pas irréels.
 
-### 9.3. Non-violence
+Il ne peut donc ni sauver son présent ni accumuler facilement richesses et pouvoirs dans celui-ci.
 
-Le héros pense d'abord qu'une violence limitée ou préventive peut empêcher une violence plus grande. Il découvre les mécanismes d'escalade, de vengeance, de peur et de militarisation.
+La formule « comme des rêves » décrit l'absence d'effet sur son présent, non l'irréalité morale des personnes rencontrées.
 
-L'enseignement ne doit pas être facile : le roman doit confronter la non-violence aux cas les plus difficiles, pas seulement à des brutalités caricaturales.
+La découverte centrale est double :
 
-### 9.4. Critique de l'homme providentiel
+- son action est futile pour son intérêt personnel dans le monde originel ;
+- elle demeure moralement réelle pour ceux qui subissent ou reçoivent ses conséquences dans le monde visité.
 
-Une société juste ne peut dépendre durablement de la sagesse exceptionnelle d'un bon roi, d'un bon chef ou d'un héros venu du futur.
+## 11. Transformation philosophique
 
-### 9.5. Démocratie liquide
+Chaque grand voyage doit constituer une expérience qui déplace une conviction du héros.
 
-La démocratie ne se réduit pas au choix périodique de représentants. Le héros découvre progressivement :
+Progression générale envisagée :
 
-- le vote direct ;
-- la délégation par domaine ;
-- la délégation révocable ;
-- la transparence ;
-- la possibilité de reprendre son vote ;
-- la conservation permanente de la souveraineté par chacun.
+1. **Curiosité naïve** — il veut voir.
+2. **Exploitation** — il veut tirer profit du passé.
+3. **Intervention bienveillante** — il veut corriger l'histoire.
+4. **Échec du contrôle** — ses corrections produisent des effets inattendus.
+5. **Respect de l'autonomie** — aider ne signifie pas gouverner.
+6. **Non-violence** — refuser de produire volontairement la souffrance et chercher la désescalade.
+7. **Démocratie liquide** — distribuer et rendre révocable le pouvoir plutôt que l'accaparer.
+8. **Eternal kindness** — cultiver une bienveillance durable, y compris envers ceux qu'il ne connaîtra jamais.
+9. **Élargissement moral au vivant** — respecter les autres êtres vivants et préserver les écosystèmes.
+10. **Transmission sans possession** — préparer un futur qu'il ne contrôlera pas.
 
-La démocratie liquide doit naître de plusieurs expériences et échecs, non apparaître immédiatement comme une solution parfaite.
+Ces convictions ne sont pas données dès le commencement. Elles naissent d'erreurs, de contradictions, de rencontres et de conséquences imprévues.
 
-### 9.6. Progrès et écologie
+Le héros doit parfois mal comprendre la leçon d'un voyage. Il peut appliquer une vérité partielle de manière excessive lors du suivant, puis être corrigé par l'expérience.
 
-Une innovation efficace peut provoquer exploitation, concentration du pouvoir, pollution, destruction de savoirs ou épuisement des ressources. La possibilité technique ne constitue pas une justification morale.
+## 12. Fonction éducative et comique
 
-Le héros apprend à penser les conséquences sur plusieurs générations et à préserver les conditions de vie futures.
+### 12.1. L'appel de soixante secondes
 
-### 9.7. Élargissement de la considération morale
+Exemple central :
 
-Son attention s'élargit progressivement :
+Le héros veut vivre dans le luxe. Il affirme à un monarque qu'il vient du futur et peut le prouver. Le roi convoque ses savants.
 
-1. lui-même ;
-2. sa famille et ses proches ;
-3. ses semblables ;
-4. les étrangers et les adversaires ;
-5. les générations futures ;
-6. les animaux ;
-7. les communautés vivantes et les écosystèmes.
+Ceux-ci lui posent notamment une question sur √2.
 
-Il ne s'agit pas d'une règle simpliste interdisant toute atteinte au vivant, mais d'une orientation constante visant à reconnaître et réduire la violence.
+Le héros sait que :
 
-### 9.8. « Eternal kindness »
+[
+sqrt{2} approx 1{,}41421356
+]
 
-La kindness n'est pas seulement une émotion occasionnelle. Elle devient une orientation permanente envers les autres êtres : attention, douceur, respect, soin et refus de traiter une vie comme moralement négligeable.
+mais ne peut pas nécessairement produire sur-le-champ cinq décimales fiables ni une méthode immédiatement convaincante pour les savants de l'époque.
 
-La formulation et la portée exactes de cette idée restent à approfondir.
+Il doit survivre et conserver leur intérêt jusqu'au lever du soleil. Pendant la minute de communication avec son présent, il doit :
 
-### 9.9. Aider sans gouverner
+- obtenir une méthode ;
+- la comprendre ;
+- retenir les étapes ;
+- anticiper les questions suivantes ;
+- la traduire dans les concepts et instruments disponibles à l'époque.
 
-Même ses principes les plus justes deviendraient oppressifs s'il les imposait. Le héros apprend à donner aux habitants :
+L'auteur lui-même, pourtant titulaire d'une thèse en mathématiques, a remarqué qu'il commencerait peut-être par chercher un développement limité de ((1-x)^n), ce qui serait intellectuellement pertinent mais peu utile sous pression devant une cour ancienne.
 
-- accès aux connaissances ;
-- moyens de délibérer ;
-- capacité de vérifier les faits ;
-- possibilité de révoquer les pouvoirs ;
-- outils de résolution non violente des conflits ;
-- moyens de préserver leur autonomie et leur milieu.
+La scène enseigne donc simultanément :
 
-Il ne décide pas à leur place de ce qu'est une bonne vie.
+- une méthode mathématique réelle ;
+- l'écart entre savoir et savoir restituer ;
+- les conditions matérielles de la connaissance ;
+- le danger de se présenter comme omniscient ;
+- l'art de gagner du temps.
 
-## 10. Le mécanisme éducatif
+### 12.2. Autres sources de comique
 
-Le roman doit réellement apprendre des choses au lecteur. La science, l'histoire et la philosophie doivent être nécessaires à l'action.
-
-Exemple envisagé : le héros souhaite vivre luxueusement auprès d'un monarque. Il prétend venir du futur et affirme pouvoir le prouver. Le roi convoque ses savants, qui l'interrogent.
-
-Ils peuvent lui demander :
-
-- la valeur de \(\sqrt2\) à plusieurs décimales ;
-- une méthode permettant de l'obtenir ;
-- une démonstration de son irrationalité ;
-- des connaissances astronomiques ;
-- une prédiction vérifiable.
-
-Le héros sait que \(\sqrt2\approx1{,}41\), connaît peut-être son histoire et certaines propriétés, mais ne sait pas nécessairement produire cinq décimales sur-le-champ.
-
-Une méthode efficace serait l'itération babylonienne ou méthode de Héron :
-
-\[
-x_{n+1}=\frac12\left(x_n+\frac{2}{x_n}\right).
-\]
-
-En partant de \(x_0=1{,}4\), quelques itérations donnent rapidement \(1{,}41421356\ldots\). Mais encore faut-il retrouver la méthode, effectuer les divisions avec les outils disponibles et éviter le ridicule si les savants la connaissent déjà.
-
-Le comique vient du contraste entre son assurance encyclopédique et la précision opérationnelle demandée.
-
-## 11. Divergence et connaissance de l'avenir
-
-Au début d'un voyage, les archives du présent décrivent encore le monde visité. Mais les comportements humains deviennent rapidement imprévisibles parce que la présence mentale du héros modifie les décisions.
-
-Il faut distinguer :
-
-### Phénomènes relativement robustes
-
-- mathématiques ;
-- mouvements astronomiques ;
-- propriétés physiques ;
-- phénomènes naturels peu sensibles à ses actions.
-
-### Phénomènes rapidement divergents
-
-- rencontres ;
-- décisions politiques ;
-- batailles ;
-- mariages ;
-- prix ;
-- rumeurs ;
-- déplacements ;
-- propagation sociale d'une information ;
-- réactions à ses propres prédictions.
-
-Plus il cherche à démontrer qu'il connaît l'avenir humain, plus il contribue à rendre cet avenir faux.
-
-## 12. Sens général de l'œuvre
-
-Le héros tente d'abord d'utiliser ses passages dans le passé pour améliorer son présent originel : richesse, prestige, connaissance, influence ou avantage matériel.
-
-Lorsqu'il comprend que chaque voyage se déroule dans une copie parallèle, il croit un temps que ses actions sont futiles. Il découvre ensuite son erreur : les habitants du monde visité sont réels et les conséquences de ses actes le sont également, même si elles ne profitent jamais à son monde d'origine.
-
-Sa question évolue :
-
-> Comment utiliser le passé pour améliorer mon présent ?
-
-devient :
-
-> Comment aider les habitants de ce monde et les générations futures à vivre sainement de corps et d'esprit, en paix, dans le respect des autres êtres vivants et en préservant leur écosystème ?
-
-Le sens d'une action ne dépend pas de la possibilité d'en rapporter le résultat, d'en recevoir le mérite ou même d'en observer l'aboutissement.
+- La voix répond comme une administration.
+- Le corps reçu contredit le projet du héros.
+- Son savoir moderne est inutilisable sans instruments.
+- Une innovation simple exige une chaîne industrielle inexistante.
+- Une prédiction correcte devient fausse parce qu'elle a été annoncée.
+- Il ignore les conventions sociales du corps qu'il occupe.
+- Il doit cacher une ignorance que son entourage prend pour une maladie, une possession ou une trahison.
+- Il découvre que les grands personnages historiques sont occupés par des problèmes triviaux.
+- Il tente d'expliquer un concept moderne avec un vocabulaire qui n'existe pas encore.
 
 ## 13. La fin
 
@@ -529,8 +484,9 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - direction du trajet, étapes, durée et circonstances pratiques du cadre retenu ;
 - architecture du récit-cadre : sept jours, étapes ferroviaires ou autre découpage.
 - correspondance entre l'ordre chronologique des voyages et les étapes du trajet-cadre.
-- nature des indices discrets précédant la révélation du compagnon ;
-- moment et formulation exacte de la première interruption révélant le destinataire ;
+- articulation exacte des révélations finales qui enchaînent chaque livre au suivant ;
+- livre dans lequel le compagnon devient explicitement perceptible ;
+- moment et formulation exacte de sa première intervention, nécessairement postérieure au livre I ;
 - révélation simultanée ou successive du compagnon, de l'année 2026 et du moyen de transport.
 
 ### Voyages
