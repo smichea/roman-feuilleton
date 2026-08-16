@@ -7,6 +7,7 @@
 - Il raconte ses appels et ses voyages à son fils fictif.
 - Le dialogue avec le fils permet les objections, les demandes de précision et la mise à l'épreuve de la mémoire du héros.
 - La confession se déroule probablement pendant un voyage partagé assez long pour donner le temps de tout raconter.
+- Le héros raconte ses voyages dans l'ordre chronologique où il les a vécus. Cet ordre est nécessaire à sa progression philosophique.
 
 ## Option A — Le Transsibérien
 
@@ -23,7 +24,7 @@ Le père et le fils voyagent ensemble pendant environ une semaine. Le trajet app
 
 Le père et le fils naviguent ensemble. Les lieux traversés rappellent au héros ses différents voyages. Le voilier apporte :
 
-- une narration associative déclenchée par les côtes, ports, vents et paysages ;
+- un itinéraire dont les côtes, ports, vents et paysages font écho aux voyages racontés dans leur ordre chronologique ;
 - une proximité concrète avec les éléments et le vivant ;
 - une coopération nécessaire entre le père et le fils ;
 - des aléas météorologiques capables d'interrompre ou déplacer le récit ;
@@ -34,7 +35,7 @@ Le père et le fils naviguent ensemble. Les lieux traversés rappellent au héro
 
 | Dimension | Transsibérien | Bateau à voile |
 |---|---|---|
-| Structure | Linéaire, étapes successives | Associative, souvenirs éveillés par les lieux |
+| Structure | Linéaire, étapes successives | Chronologique également ; les lieux accompagnent les étapes de la formation |
 | Rythme | Horaires, gares, compartiments | Quarts, vents, escales, météo |
 | Relation père-fils | Proximité imposée par le compartiment | Entraide concrète et vulnérabilité partagée |
 | Paysage | Continent qui défile | Mer, côtes et ports historiquement stratifiés |
@@ -68,5 +69,5 @@ Les questions de lever du soleil ne doivent pas fixer indirectement les règles 
 - Le croit-il au commencement ?
 - Pourquoi le héros choisit-il 2026 pour parler ?
 - Le fils interrompt-il, vérifie-t-il ou accuse-t-il ?
-- Le héros raconte-t-il chronologiquement ou selon les associations provoquées par le trajet ?
+- Comment les associations provoquées par le trajet renforcent-elles l'ordre chronologique sans le rompre ?
 - Le dernier appel survient-il en chemin, lors d'une étape ou après l'arrivée ?
