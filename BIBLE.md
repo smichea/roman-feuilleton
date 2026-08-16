@@ -266,6 +266,10 @@ Le héros naît le 2 août 1970 dans le quartier du Banlay, à Nevers. Ses paren
 
 À dix ans, pendant des vacances chez ses grands-parents à Varennes-Vauzelles, il reçoit son premier appel. Il est en train de lire Buffon sur la table de la salle à manger lorsqu'il décroche le téléphone à cadran. Prenant les questions de la voix pour celles d'un correspondant ordinaire qui cherche ses grands-parents, il donne « Bonjour » comme lieu, « dans un quart d'heure » comme date et dix ans comme âge. La voix rejette finalement sa demande parce que « Bonjour » n'est pas un lieu identifiable.
 
+À douze ans, après avoir pris la mauvaise ligne d'autobus en rentrant de l'école et appelé sa mère depuis un téléphone public, il reçoit le deuxième appel. Distrait par l'accident urinaire qu'il vient d'avoir, il reconnaît la voix trop tard et donne involontairement « Pardon » comme lieu, « il y a deux ans » comme date et « présent » comme âge. La voix rejette le lieu, puis raccroche.
+
+À quinze ans, seul chez lui alors qu'il joue sur son Amstrad, il reçoit le troisième appel. Il comprend enfin que la voix attend trois réponses distinctes et accepte de se prêter au jeu. Il choisit Dijon, sa date de naissance — le 2 août 1970 — et son âge réel. La voix lui apprend que la date choisie n'est pas suffisamment éloignée dans le passé. Pour la première fois, il décide de préparer sérieusement le prochain appel.
+
 La chronologie exacte des premiers appels reste à harmoniser. Deux éléments ont été envisagés :
 
 - des appels manqués ou interrompus dès l'enfance et la jeunesse ;
