@@ -54,8 +54,9 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - Né en 1951, le héros a soixante-quinze ans et se trouve vers la fin de sa vie.
 - Le fils et leur relation sont entièrement fictifs.
 
-### Hypothèse forte
+### Hypothèses de cadre
 
-- La confession se déroule pendant un voyage d'environ une semaine dans le Transsibérien.
-- La durée du trajet fournit le temps matériel nécessaire pour tout raconter.
-- Cette hypothèse doit être documentée avant de devenir canonique.
+- La confession se déroule pendant un voyage partagé assez long pour tout raconter.
+- Première possibilité : environ une semaine dans le Transsibérien.
+- Seconde possibilité : une croisière sur un bateau à voile, les lieux successifs réveillant les souvenirs des différents voyages.
+- Le cadre exact n'est pas encore décidé et devra être documenté.
