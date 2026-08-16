@@ -4,8 +4,8 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 
 | Phase | Vie présente | Rapport aux appels et aux voyages | Transformation |
 |---|---|---|---|
-| Enfance | Naissance en 1951 à Dijon ; livres et formation de la curiosité | Appels éventuellement manqués ou interrompus ; séquence exacte à fixer | Le monde paraît connaissable par les livres |
-| Lycée | Études au lycée Carnot | La voix reste incomprise ou prise pour une plaisanterie | Développement du savoir encyclopédique |
+| Enfance | Naissance le 2 août 1951 à Nevers ; livres et formation de la curiosité | Appels éventuellement manqués ou interrompus ; séquence exacte à fixer | Le monde paraît connaissable par les livres |
+| Lycée | Arrivée à Dijon et études au lycée Carnot | La voix reste incomprise ou prise pour une plaisanterie | Développement du savoir encyclopédique |
 | Jeune adulte | Études, mariage, naissance d'un enfant, interruption des études | Première demande prise au sérieux : date récente refusée | Découverte de la limite des deux cents ans |
 | Installation | Reprise d'un petit commerce | Premiers voyages possiblement jeunes, rares et mal exploités | L'expérience précède encore sa compréhension |
 | Vie commerçante | Travail, famille fictive, bibliothèque toujours croissante | Appels imprévisibles ; tentatives initiales d'utiliser le passé au profit du présent | Apparition d'une double vie intérieure |
@@ -17,6 +17,7 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 
 ## Points à résoudre
 
+- Circonstances du passage de Nevers à Dijon.
 - Date et âge exacts du premier voyage.
 - Nombre d'appels antérieurs et statut du « premier appel ».
 - Nature du commerce.
