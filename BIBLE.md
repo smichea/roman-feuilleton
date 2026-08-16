@@ -68,6 +68,8 @@ Cette ouverture factuelle fait croire à des mémoires écrites et prépare ains
 
 En 2026, à soixante-quinze ans et vers la fin de sa vie, il décide de raconter l'ensemble de son histoire à un compagnon fictif avec lequel il partage un long trajet. Le compagnon n'est pas un simple auditeur : ses questions, objections et incrédulités peuvent représenter celles du lecteur et obliger le héros à préciser ce qu'il avait lui-même mal compris. La nature exacte de leur relation, leur degré de familiarité initial et la raison de cette confiance restent à construire.
 
+Une hypothèse structurante est que ce compagnon ne soit pas étranger à la voix. Il pourrait avoir reçu des appels, reconnaître certaines formulations, connaître une règle que le héros ne lui a pas encore dite, rechercher lui-même l'origine du phénomène ou entretenir un lien plus direct avec lui. Cette connexion doit permettre de révéler progressivement des propriétés de la voix sans nécessairement expliquer son origine ultime.
+
 ### 3.2. Petit commerçant et autodidacte
 
 Le héros exerce un métier ordinaire : il est **petit commerçant**. La nature exacte de son commerce reste à déterminer.
@@ -520,6 +522,9 @@ Après avoir exploré l'histoire, les sciences, la beauté, les rencontres et la
 - place de la boutique dans son évolution morale.
 - personnalité, âge et rôle exacts du compagnon fictif qui reçoit le récit en 2026 ;
 - relation initiale entre le héros et ce compagnon, et raison pour laquelle il lui accorde sa confiance ;
+- nature du lien entre le compagnon et la voix ;
+- indices progressifs montrant que son intérêt pour le récit n'est pas fortuit ;
+- degré de révélation souhaité sur les capacités et les limites de la voix, sans en dissiper entièrement le mystère ;
 - choix entre le Transsibérien, une croisière à la voile ou un autre voyage partagé ;
 - direction du trajet, étapes, durée et circonstances pratiques du cadre retenu ;
 - architecture du récit-cadre : sept jours, étapes ferroviaires ou autre découpage.
