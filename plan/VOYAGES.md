@@ -17,6 +17,7 @@ Ce document organisera les voyages sans fixer prématurément les règles des ap
 - Les archives du présent deviennent progressivement moins utiles à mesure que le monde diverge.
 - Un monde quitté ne peut jamais être rejoint de nouveau.
 - Chaque voyage doit enseigner quelque chose au lecteur et déplacer philosophiquement le héros.
+- Les voyages sont racontés dans l'ordre où ils ont été vécus ; cet ordre doit rendre lisible la progression du *Bildungsroman*.
 - Le comique doit provenir de l'action, du corps reçu, de la divergence et des limites de son savoir — sans tourner l'identité de la personne occupée en dérision.
 
 ## Voyages évoqués mais non adoptés
