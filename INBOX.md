@@ -39,7 +39,7 @@ Idée brute :
 
 Potentialités :
 
-- narration déclenchée par les paysages plutôt que strictement chronologique ;
+- récit maintenu dans l'ordre chronologique ; les paysages font écho à l'étape racontée sans en modifier l'ordre ;
 - ports et côtes faisant écho aux mondes visités ;
 - relation père-fils éprouvée par la vie à bord ;
 - présence de la mer, du vivant, du vent et des levers de soleil ;
