@@ -12,7 +12,7 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 | Maturité | Le commerce et les relations ordinaires éprouvent ses idées | Compréhension progressive des clones et de la divergence | Passage du profit personnel à la responsabilité envers les mondes visités |
 | Âge mûr | Application dans le présent des enseignements reçus ailleurs | Les appels ne doivent plus gouverner toute son existence | Non-violence, démocratie, soin du vivant et attention aux générations futures deviennent pratiques |
 | Vieillesse | Transmission, livres, projets dont il ne verra pas nécessairement l'issue | Enquête sur la voix sans certitude d'un nouvel appel | Acceptation de l'inconnu sans disparition de la curiosité |
-| Récit-cadre, 2026 | À soixante-quinze ans, vers la fin de sa vie, il raconte tout à son fils fictif | Le Transsibérien pendant environ une semaine est l'hypothèse privilégiée | La transmission donne enfin une forme partageable à ses vies invisibles |
+| Récit-cadre, 2026 | À soixante-quinze ans, vers la fin de sa vie, il raconte tout à son fils fictif | Un voyage partagé assez long pour tout raconter : Transsibérien ou croisière à la voile | La transmission donne enfin une forme partageable à ses vies invisibles |
 | Dernier appel | Ici et maintenant | « Une seconde avant ma mort » | La mort devient la dernière expérience inconnue |
 
 ## Points à résoudre
@@ -24,4 +24,4 @@ Cette chronologie ne décrit que la vie du héros dans son monde d'origine. Les 
 - Temps écoulé dans le présent pendant chaque voyage.
 - Traces psychologiques laissées par les existences vécues dans les clones.
 - Relation du père et du fils pendant la confession.
-- Confirmation et documentation du cadre transsibérien.
+- Choix et documentation du cadre : Transsibérien, croisière à la voile ou autre voyage partagé.
