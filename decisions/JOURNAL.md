@@ -118,3 +118,17 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - Circonstances qui les obligent ou les conduisent à partager ce temps.
 - Raison pour laquelle le héros choisit de se confier à lui.
 - Évolution de leur relation pendant le récit.
+
+
+## 2026-08-16 — Progression du mystère de la voix
+
+### Décidé
+
+- Le héros tente au cours de sa vie d'en apprendre davantage sur la voix.
+- Le lecteur doit obtenir progressivement de véritables informations sur ses capacités et ses limites.
+- L'origine ultime de la voix peut néanmoins rester inexpliquée.
+
+### Hypothèse structurante
+
+- Le compagnon de voyage n'est pas étranger à la voix.
+- La nature exacte de ce lien reste ouverte.
