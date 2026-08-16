@@ -156,3 +156,16 @@ Le roman s'arrête sans expliquer la voix ni la suite.
 - La famille s'installe à Dijon lorsqu'il a quatre ans.
 - Il conserve très peu de souvenirs de ses premières années à Nevers.
 - Le premier paragraphe de travail reprend ces éléments dans une forme autobiographique sobre.
+
+
+## 2026-08-16 — Nouvelle date de naissance et déplacement du récit-cadre
+
+### Décidé
+
+- La date de naissance du 2 août 1951 est abandonnée.
+- Le héros naît désormais le **2 août 1970** dans le quartier du Banlay, à Nevers.
+- La famille s'installe à Dijon en **1974**, lorsqu'il a quatre ans.
+- Le premier paragraphe du manuscrit est corrigé en conséquence.
+- Afin que le héros raconte toujours son histoire vers la fin de sa vie, le récit-cadre est déplacé de 2026 à **2056**.
+- Le héros a alors **quatre-vingt-six ans**.
+- La période postérieure à 2026 constitue désormais un futur proche à construire avec sobriété.
